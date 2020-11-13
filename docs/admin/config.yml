@@ -24,6 +24,10 @@ collections:
             name: "items"
             widget: "list"
             fields:
+              - label: "Nom du lieu"
+                name: nom
+                widget: string
+                required: false
               - label: "Images"
                 name: "img"
                 widget: "list"
@@ -31,3 +35,23 @@ collections:
                 fields:
                   - {label: "image", name: img, widget: image, required: false}
                   - {label: "décrivez cette image pour les personnes non-voyantes", name: alt, widget: string, required: false}
+              - label: "Géolocalisation (itinéraire GPS)"
+                name: geolocalisation
+                widget: string
+                required: false
+              - label: "Description"
+                name: description
+                widget: text
+                required: false
+              - label: "Sa biodiversité (son écosystème)"
+                name: biodiversite
+                widget: text
+                required: false
+              - label: "Ses potentialités écotouristiques"
+                name: potentialites
+                widget: text
+                required: false
+              - label: "Ses menaces par rapport aux changements climatiques et les mesures à prendre pour s’adapter aux aléas naturels"
+                name: menaces
+                widget: text
+                required: false
