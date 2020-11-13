@@ -1,1 +1,17 @@
 items:
+  - img:
+      - alt: Étang de Miragoâne
+        img: /media/etang-de-miragoane.jpg
+      - alt: L’équipe de ASMAV-HAITI à l’étang de Miragoâne
+        img: /media/etang-de-miragoane-2.jpg
+  - img:
+      - img: /media/lac-peligre.jpg
+        alt: Le lac Péligre
+  - img:
+      - img: /media/grotte-marie-jeanne.jpg
+        alt: Grotte Marie-Jeanne
+      - img: /media/grotte-marie-jeanne-2.jpg
+        alt: La descente de la Grotte Marie-Jeanne
+  - img:
+      - img: /media/chute-du-sceau-mathurine.jpg
+        alt: La chute du Sceau Mathurine
