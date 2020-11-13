@@ -1,0 +1,32 @@
+# config.yml
+
+backend:
+  # See https://www.netlifycms.org/docs/authentication-backends/#github-backend
+  name: github
+  repo: maisonverte/maisonverte
+  branch: master
+  base_url: https://auth.static.dcycle.com
+  auth_endpoint: auth/github/alberto56
+media_folder: 'docs/media'
+public_folder: "/media"
+collections:
+  - name: "fiches"
+    label: "fiches"
+    editor:
+      preview: false
+    files:
+      - label: "fiches"
+        name: 'fiches'
+        file: 'docs/_data/fiches.yml'
+        fields:
+          - label: "Liens"
+            name: "items"
+            widget: "list"
+            fields:
+              - label: "Images"
+                name: "img"
+                widget: "list"
+                required: false
+                fields:
+                  - {label: "image", name: img, widget: image, required: false}
+                  - {label: "décrivez cette image pour les personnes non-voyantes", name: alt, widget: string, required: false}
