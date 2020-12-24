@@ -17,10 +17,12 @@ items:
   - img:
       - img: /media/chute-du-sceau-mathurine.jpg
         alt: La chute du Sceau Mathurine
-    nom: Chute du Sceau Mathurine
+      - {}
+    nom: Sceau Mathurine
   - description: ""
     img:
-      - img: /media/psx_20201022_155636.jpg
+      - img: /media/fb_img_16061478610818899.jpg
+    nom: Bassin Bleu
   - nom: Bassin Zim
     img:
       - img: /media/img-20201114-wa0025.jpg
