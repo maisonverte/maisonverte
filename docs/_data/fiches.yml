@@ -65,3 +65,6 @@ items:
   - nom: Ile à Vache
   - nom: Parc National Naturel Lagon des huîtres
   - nom: Etang Bossier
+    img:
+      - img: /media/img-20201025-wa0015.jpg
+  - {}
