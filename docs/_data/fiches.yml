@@ -6,6 +6,7 @@ items:
   - img:
       - img: /media/lac-peligre.jpg
         alt: Le lac Péligre
+      - img: /media/img-20201114-wa0008.jpg
     nom: Lac Péligre
   - img:
       - img: /media/grotte-marie-jeanne.jpg
