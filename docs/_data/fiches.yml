@@ -1,9 +1,6 @@
 items:
   - img:
-      - alt: Étang de Miragoâne
-        img: /media/etang-de-miragoane.jpg
-      - alt: L’équipe de ASMAV-HAITI à l’étang de Miragoâne
-        img: /media/etang-de-miragoane-2.jpg
+      - img: /media/psx_20201022_155636.jpg
     nom: Étang de Miragoâne
   - img:
       - img: /media/lac-peligre.jpg
