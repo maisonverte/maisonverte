@@ -82,7 +82,9 @@ items:
   - nom: La mangrove des Baradères
   - nom: Etang de Bois-neuf
   - nom: Les Sources chaudes
-  - {}
+  - nom: "Cascade Saut-d’Eau "
+    img:
+      - img: /media/img-20201114-wa0038.jpg
   - {}
   - {}
   - {}
