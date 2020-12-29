@@ -113,7 +113,8 @@ items:
         alt: La descente de la Grotte Marie-Jeanne
     nom: Grotte Marie-Jeanne
   - img:
-      - img: /media/img-20201114-wa0024.jpg
+      - img: /media/psx_20201112_090422.jpg
+      - {}
     nom: Sceau Mathurine
   - description: ""
     img:
