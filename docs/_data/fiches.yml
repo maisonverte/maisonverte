@@ -161,6 +161,8 @@ items:
   - nom: Réserve de Biosphère la Hotte
   - nom: Ile à Vache
   - nom: Parc National Naturel Lagon des huîtres
+    img:
+      - img: /media/img-20201115-wa0033.jpg
   - nom: Etang Bossier
     img:
       - img: /media/img-20201025-wa0015.jpg
