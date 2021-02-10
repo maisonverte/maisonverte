@@ -71,7 +71,7 @@ items:
       profondeur maximale pourrait atteindre jusqu’à 172 durant les mois
       d’octobre, novembre et décembre.
 
-      Avec une hauteur de 72m de hauteur et 328m de longueur pour une superficie de 48km², le Lac Péligre est doté d’une centrale hydro-électrique composée de trois turbines d'une capacité de 15,5 mégawatts chacune et produit en moyenne 45 MW. 
+      Avec une hauteur de 72m de hauteur et 328m de longueur pour une superficie de 48km², le Lac Péligre est doté d’une centrale hydro-électrique composée de trois turbines d'une capacité de 15,5 mégawatts chacune et produit en moyenne 45 MW. Le lac Péligre est classé « Zone réservée d’intérêt stratégique de Péligre » en 2015
     biodiversite: >
       Bondé d’une eau relativement obscur, le Lac Péligre a cette particularité
       d’être alimenté en eau par des bassins versants qui se trouvent en amont
@@ -129,7 +129,10 @@ items:
       contraste à ce qu'on s’apprête à découvrir en y pénétrant. Nommée en
       mémoire de Marie-Jeanne Lamartinière, la grotte Marie-Jeanne semble
       existée depuis l’époque de Taïnos, les premiers habitants de l’Ile
-      d’Haïti, selon les recherches archéologiques.
+      d’Haïti, selon les recherches archéologiques. Couvrant une superficie de
+      31 hectares, la Grotte Marie-Jeanne a été déclarée « Aire protégée Grotte
+      Marie-Jeanne » par arrêté présidentiel du 7 août  2013 et classée dans la
+      catégorie Élément naturel exceptionne
 
       Elle contient deux types d’espaces : les espaces à ciel ouvert c’est-à-dire des endroits éclairés par la lumière du soleil et des espaces à ciel fermé, connus comme des espaces plongés dans la noirceur totale où le silence sonne sous le rythme incroyable d’une nature indomptable. 
     biodiversite: >
@@ -172,7 +175,7 @@ items:
       offre de la nature.
   - img:
       - img: /media/img-20201114-wa0024.jpg
-    nom: Cascade Sceau Mathurine
+    nom: Sceau Mathurine
     description: Situé dans la péninsule sud-ouest de la région la plus verte
       d’Haïti, plus précisément au sud de l’île d’Haïti à environ 10 km du
       centre-ville de Camp Perrin, la chute du Saut Mathurine est l’une des plus
@@ -251,11 +254,9 @@ items:
         Les mauvaises herbes ont envahi le sentier qui mène jusqu’à la cascade. Mais tout près, la chute d’eau gronde et impressionne sous des jets de poussières qui risquent de polluer l’eau. Des femmes font de la lessive. Les substances chimiques du savon peuvent entraver la présence des poissons et d’autres espèces qui s’y trouvent.
       Il est urgent que les autorités concernées entreprennent projets de sécurisation du site doivent être envisagés. Des aménagements réels relatifs à la protection de l’environnement et de la préservation du patrimoine sont à encourager. 
     geolocalisation: ""
-  - nom: Jardi Botanique des Cayes
-    img: []
-  - nom: Parc Macaya
+  - nom: Parc National Naturel Macaya
   - nom: Réserve de Biosphère la Hotte
-  - nom: Ile à Vache
+  - nom: Parc National Naturel Ile-à-Vache
   - nom: Parc National Naturel Lagon des huîtres
     img:
       - img: /media/img-20201115-wa0033.jpg
@@ -269,7 +270,7 @@ items:
   - nom: Parc de Martissant
   - nom: Trou-Caïman
   - nom: Etang Saumâtre
-  - nom: Parc national La Visite
+  - nom: Parc National La Visite
   - nom: Réserve écologique Wynn Farm
   - nom: Réserve de Biosphère La Selle
   - nom: Volcan La Vigie
@@ -280,9 +281,17 @@ items:
   - nom: "Cascade Saut-d’Eau "
     img:
       - img: /media/img-20201114-wa0038.jpg
-  - nom: "Parc national historique- Citadelle, Sans souci, Ramiers "
+  - nom: "Parc National historique- Citadelle, Sans souci, Ramiers "
   - nom: La Baie de l'Acul du Nord
-  - nom: Parc des trois Baies
-  - nom: Lagon aux Bœufs
+  - nom: Parc National Naturel des trois Baies et des Lagons aux Bœufs
   - nom: Source Zabeth
   - nom: Parc Naturel du Canapé-Vert
+  - nom: "Parc National Naturel Grande Colline "
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
