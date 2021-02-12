@@ -11,6 +11,16 @@ backend:
 media_folder: 'docs/media'
 public_folder: "/media"
 collections:
+  - name: 'pages'
+    create: true
+    label: 'Pages'
+    folder: '_posts/'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Titre (par exemple "Destinations")', name: 'title', widget: 'string' }
+      - { label: 'Chemin (par exemple /destinations)', name: 'permalink', widget: 'string' }
+      - { label: 'Contenu', name: 'body', widget: 'markdown' }
   - name: "fiches"
     label: "fiches"
     editor:
