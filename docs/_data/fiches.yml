@@ -293,6 +293,9 @@ items:
       malheureusement, le théâtre d’une série d’activités liées au développement
       agricole. Ces activités contribuent fortement à la dégradation de son
       écosystème déjà fragile par rapport au changement climatique.
+    img:
+      - img: /media/m-lb-10.jpg
+      - {}
   - nom: Réserve de Biosphère la Hotte
   - nom: Parc National Naturel Ile-à-Vache
   - nom: Parc National Naturel Lagon des huîtres
