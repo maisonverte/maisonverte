@@ -3,16 +3,16 @@ layout: post
 title: Qui sommes-nous
 permalink: Haiti-Caraïbe
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Version>14.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +51,9 @@ permalink: Haiti-Caraïbe
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="267">
@@ -309,9 +309,9 @@ permalink: Haiti-Caraïbe
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -337,10 +337,10 @@ permalink: Haiti-Caraïbe
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
-**Tout Naturel Haiti - Caraïbe** est une plateforme numérique d’éducation à l’environnement dédiée àla promotion et la valorisation de la biodiversité, du patrimoine naturel et paysager d’Haïti et d’autres territoires insulaires de la Caraïbe francophone et créolophone. Ce projet vise à créer une synergie entre Haïti et des îles de la Caraïbe autour du patrimoine naturel commun et de sa promotion. Par son ouverture régionale, le projet vise également à sensibiliser les populations à la découverte et au tourisme durable et responsable.
+**Tout Naturel Haiti - Caraïbes** est une plateforme numérique d’éducation à l’environnement dédiée àla promotion et la valorisation de la biodiversité, du patrimoine naturel et paysager d’Haïti et d’autres territoires insulaires de la Caraïbe francophone et créolophone. Ce projet vise à créer une synergie entre Haïti et des îles de la Caraïbe autour du patrimoine naturel commun et de sa promotion. Par son ouverture régionale, le projet vise également à sensibiliser les populations à la découverte et au tourisme durable et responsable.
 
 <!--EndFragment-->
