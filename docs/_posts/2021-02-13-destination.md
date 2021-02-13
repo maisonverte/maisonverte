@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Destination
+title: Destinations
 permalink: Ecotourisme
 ---
 <!--\[if gte mso 9]><xml>
