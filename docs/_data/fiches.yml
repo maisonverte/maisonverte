@@ -309,6 +309,8 @@ items:
     img:
       - img: /media/whatsapp-image-2021-02-10-at-3.11.47-pm-1-.jpeg
   - nom: Parc de Martissant
+    img:
+      - img: /media/parc-de-martissant.jpg
   - nom: Trou Caïman
     description: Trou Caïman, également connu sous le nom de Dlo gaye est un lac
       d'eau douce peu profond de 2500 hectares, situé à 20 km au nord-est de
@@ -440,5 +442,3 @@ items:
       - {}
   - nom: Parc Naturel du Canapé-Vert
   - nom: Massif de La Selle
-  - {}
-  - {}
