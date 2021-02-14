@@ -309,7 +309,40 @@ items:
     img:
       - img: /media/whatsapp-image-2021-02-10-at-3.11.47-pm-1-.jpeg
   - nom: Parc de Martissant
-  - nom: Trou-Caïman
+  - nom: Trou Caïman
+    description: Trou Caïman, également connu sous le nom de Dlo gaye est un lac
+      d'eau douce peu profond de 2500 hectares, situé à 20 km au nord-est de
+      Port-au-Prince, dans la Plaine du Cul-de-sac à 10 m d'élévation. Trou
+      Caïman, avec le lac Azuéi et les zones humides d'Enriquillo en République
+      dominicaine, fait partie d'une écorégion d'une valeur biologique
+      exceptionnelle. Cette mare marécageuse  de 690 ha est peu profonde avec
+      les eaux légèrement saumâtres (variable selon la pluviosité) et
+      eutrophiques (eaux vertes). Les fonds sont boueux (argileux). La
+      végétation aquatique est riche en algue. Il mesure 9km de longueur sur 3km
+      de large pour une superficie d’environ 16km².
+    biodiversite: "Plus de 100 espèces de sauvagine et d'oiseaux terrestres se
+      trouvent à Trou Caïman, reconnu par Bird life internationale et la société
+      ornithologiques d’Hispaniola comme zone d’observation des oiseaux d’eau
+      douce telles que aigrette, flamand rose, gallinule, grèbe à bec bigarré,
+      héron, ibis, poule d’eau la corneille à cou blanc, etc. Trou Caïman est
+      l’habitat privilégié des espèces d’oiseaux endémiques et des oiseaux
+      migrateurs saisonniers venant du Cuba et des Bahamas. "
+    potentialites: "Trou Caïman est une magnifique région située à (12) km de
+      Thomazeau. Exceptionnelle village dont des « arbres musiciens » bordent
+      les deux cotés de la route qui y mène. Lieu enchanteur pour son cadre
+      naturel harmonieux, mais exclusivement à l’usage des marcheurs, il met en
+      évidence un univers végétal percé de vastes cours d’eau offrant une image
+      fabuleuse, même au visiteur le plus pressé. Le calme absolu de ce lieu
+      permet enfin de contempler la splendeur et les essences de cette zone.   "
+    menaces: "Trou Caïman est tout d’abord victime d’isolement due à la route
+      cahoteuse qui rend le franchissement difficile. Ensuite les conditions de
+      vie de la population y sont fortement déplorable, en cause la pratique de
+      l’agriculture qui se fait de manière archaïque et rendue encore plus
+      difficile par les crues des rivières Laratte et Diaquoi. Par conséquent il
+      va de soi que ce magnifique site est menacé par la misère qui y est tout
+      autour, l’Etat se doit d’intervenir urgemment pour le doter des
+      infrastructures nécessaires pour rendre la vie propice et agréable comme
+      il se doit de l’être.  "
   - nom: Lac Azuéi (Etang Saumâtre)
     description: "Le lac Azuéi est situé dans la commune de  Thomazeau  à 39
       kilomètres de Port-au-Prince. Aussi appelé étang Saumâtre, il est le plus
@@ -353,7 +386,6 @@ items:
   - nom: Parc National La Visite
   - nom: Réserve écologique Wynn Farm
   - nom: Réserve de Biosphère La Selle
-  - nom: Volcan La Vigie
   - nom: La  mangrove de l’Estère et Grande Saline
   - nom: La mangrove des Barradères
   - nom: Etang de Bois-neuf
@@ -366,12 +398,6 @@ items:
   - nom: Parc National Naturel des trois Baies et des Lagons aux Bœufs
   - nom: Source Zabeth
   - nom: Parc Naturel du Canapé-Vert
-  - nom: "Parc National Naturel Grande Colline "
   - nom: Massif de La Selle
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
   - {}
   - {}
