@@ -3,16 +3,18 @@ layout: post
 title: L'autre face d'Haïti
 permalink: Images intéressantes sur des endroits exceptionnels d’Haïti
 ---
-<!--\[if gte mso 9]><xml>
+![La plaine de Léogane](/media/psx_20201022_165411.jpg "Vue panoramique de la plaine de Léogane")
+
+<!--\\[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Version>14.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +53,9 @@ permalink: Images intéressantes sur des endroits exceptionnels d’Haïti
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="267">
@@ -309,9 +311,9 @@ permalink: Images intéressantes sur des endroits exceptionnels d’Haïti
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -337,7 +339,7 @@ permalink: Images intéressantes sur des endroits exceptionnels d’Haïti
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
