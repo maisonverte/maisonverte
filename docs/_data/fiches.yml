@@ -235,7 +235,11 @@ items:
       diverses espèces de couleuvres (inoffensifs) et d’oiseaux migrateurs ou
       endémiques d’Haïti. Dans le bleuâtre de cette piscine naturelle, des
       poissons et d’autres animaux aquatiques trouvent aussi leur refuge plus
-      que tranquille. "
+      que tranquille. Les chuttes du Bassin Zim s’effondrent dans quatre bassins
+      : Bassin Candélabres, Bassin Arc-en-ciel, Bassin Zim, et Bassin Wells. Le
+      Bassin Zim est bordées d’une série de grottes dont certaines d’entre elles
+      contiennent des roches gravées portant les traces des indiens Taïno qui
+      habitant l’île Hispagnola avant la colonisation "
     potentialites: "Bassin Zim est un cadre enchanteur, une beauté, une oasis de
       tranquillité. Ce sanctuaire des premiers habitants de l’île (les Taïnos)
       est un espace rituel qui projette encore les vaudouisants vers ce temps
@@ -304,7 +308,6 @@ items:
   - nom: Etang Bossier
     img:
       - img: /media/img-20201025-wa0015.jpg
-  - nom: La Côte des Arcadins
   - nom: "Cascades Pichon "
     img:
       - img: /media/whatsapp-image-2021-02-10-at-3.11.47-pm-1-.jpeg
@@ -391,11 +394,11 @@ items:
       mollusques aux crabes ainsi que différentes espèces d’oiseaux comme les
       flamants roses. Sa faune invertébrée comprend 4 espèces de gastéropodes
       dont deux abondantes (une plutôt littorale, l’autre très petite vivant
-      dans les herbiers aquatiques), trois espèces de crabes selon les données
+      dans les herbiers aquatiques), trois espèces de crabes, selon les données
       disponibles. Les scientifiques révèlent la présence d’une quarantaine
       d’espèces d’oiseaux, l’existence des caïmans et d’autres mammifères, une
-      espèce de tortue et trois espèces d’amphibiens, des anguilles et des
-      tilapias. Son avifaune est riche surtout en époque de migration. "
+      espèce de tortue et trois espèces d’amphibiens, des anguilles, des canards
+      et des tilapias. Son avifaune est riche surtout en époque de migration. "
     potentialites: Le Lac Azuéi présente d’énormes potentialités touristiques. D’un
       paysage assez enchanteur, le lac                      Azuéi constitue un
       véritable espace d’observation et d’appréciation de la nature notamment à
@@ -426,16 +429,13 @@ items:
   - nom: Parc National La Visite
   - nom: Réserve écologique Wynn Farm
   - nom: Réserve de Biosphère La Selle
-  - nom: La  mangrove de l’Estère et Grande Saline
-  - nom: La mangrove des Barradères
-  - nom: Etang de Bois-neuf
-  - nom: Les Sources chaudes
   - nom: "Cascade Saut-d’Eau "
     img:
       - img: /media/img-20201114-wa0026.jpg
   - nom: "Parc National historique- Citadelle, Sans souci, Ramiers "
-  - nom: La Baie de l'Acul du Nord
   - nom: Parc National Naturel des trois Baies et des Lagons aux Bœufs
+  - nom: Parc Naturel du Canapé-Vert
+  - nom: Massif de La Selle
   - nom: Source Zabeth
     description: "La Source Zabeth est située dans la commune de Ganthier à vingt
       (20) km de Port-au-Prince, plus particulièrement dans la localité de
@@ -451,10 +451,11 @@ items:
       un spectacle à nul autre pareil à la vue. La végétation qui y est
       luxuriante n’est pas sans aucun charme sur les visiteurs. Elle est riche
       en biodiversité avec plus de 60 espèces végétales dont sept sont
-      endémiques. Outre la flore, ce site possède également une faune unique.
-      Plusieurs variétés de poissons dérivées. Au niveau du site, différend
-      types d’écosystème correspondent à des formations végétales, des orchidées
-      épiphytes des cactées multicolores ornent le lieu de divers endroit. "
+      endémiques. En plus de  sa flore, ce site possède également une faune
+      unique. Plusieurs variétés de poissons dérivées. Au niveau du site,
+      différend types d’écosystème correspondent à des formations végétales, des
+      orchidées épiphytes des cactées multicolores ornent le lieu de divers
+      endroit. "
     potentialites: "Le site enchanteur de Source Zabeth offre beaucoup de
       possibilités en termes de développement du tourisme durable. Unique dans
       la région, Source Zabeth, de par sa verdure et l’existence d’arbres
@@ -462,7 +463,7 @@ items:
       attirant. Plusieurs centaines de visiteurs dérivant de partout y affluent
       chaque semaine, à la recherche de plaisir et d’évasion en plein cœur de la
       nature. "
-    menaces: "La Source Zabeth fait face à de graves menaces qui sont autant de
+    menaces: La Source Zabeth fait face à de graves menaces qui sont autant de
       répercussion du changement climatique sur les cadres de vie. A titre
       d’exemple, l’eau de source qui coule sans arrêt entre les racines des
       arbres a perdu de sa pureté en raison de la dégradation accélérée de
@@ -472,9 +473,6 @@ items:
       politique sérieuse portant essentiellement sur la problématique de la
       promotion, de la valorisation, de la protection de l’environnement de
       source Zabeth d’une part, et d’autre part sa prise en charge par les
-      ministères concernés s’avère aussi nécessaire. "
+      ministères concernés s’avère aussi nécessaire.
     img:
-      - img: /media/source-zabeth.jpg
-      - {}
-  - nom: Parc Naturel du Canapé-Vert
-  - nom: Massif de La Selle
+      - img: /media/asourcezabeth.jpg
