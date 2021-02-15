@@ -1,7 +1,7 @@
 ---
 layout: post
 title: L'autre face d'Haïti
-permalink: Images intéressantes sur des endroits exceptionnels d’Haïti
+permalink: Vue panoramique de la plaine de Léogane
 ---
 ![La plaine de Léogane](/media/psx_20201022_165411.jpg "Vue panoramique de la plaine de Léogane")
 
