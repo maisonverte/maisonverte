@@ -300,8 +300,10 @@ items:
     img:
       - img: /media/m-lb-10.jpg
       - {}
-  - nom: Réserve de Biosphère la Hotte
   - nom: Parc National Naturel Ile-à-Vache
+    img:
+      - img: /media/ile-a-vache-4.png
+      - img: /media/il-a-avche-1.png
   - nom: Parc National Naturel Lagon des huîtres
     img:
       - img: /media/img-20201115-wa0033.jpg
@@ -430,14 +432,12 @@ items:
       - img: /media/azuei-3.png
   - nom: Parc National La Visite
   - nom: Réserve écologique Wynn Farm
-  - nom: Réserve de Biosphère La Selle
   - nom: "Cascade Saut-d’Eau "
     img:
       - img: /media/img-20201114-wa0026.jpg
   - nom: "Parc National historique- Citadelle, Sans souci, Ramiers "
   - nom: Parc National Naturel des trois Baies et des Lagons aux Bœufs
   - nom: Parc Naturel du Canapé-Vert
-  - nom: Massif de La Selle
   - nom: Source Zabeth
     description: "La Source Zabeth est située dans la commune de Ganthier à vingt
       (20) km de Port-au-Prince, plus particulièrement dans la localité de
