@@ -539,6 +539,8 @@ items:
         alt: Le plus grand Lac d’Haïti
       - img: /media/azuei-3.png
   - nom: Parc National La Visite
+    img:
+      - img: /media/la-visite-2.png
   - nom: Réserve écologique Wynn Farm
   - nom: "Cascade Saut-d’Eau "
     img:
