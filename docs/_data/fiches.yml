@@ -542,6 +542,8 @@ items:
     img:
       - img: /media/la-visite-5.png
   - nom: Réserve écologique Wynn Farm
+    img:
+      - img: /media/img_20190110_113146.jpg
   - nom: "Cascade Saut-d’Eau "
     img:
       - img: /media/saut-d-eau.jpg
@@ -614,4 +616,4 @@ items:
       source Zabeth d’une part, et d’autre part sa prise en charge par les
       ministères concernés s’avère aussi nécessaire.
     img:
-      - img: /media/source-zabeth.jpg
+      - img: /media/asourcezabeth.jpg
