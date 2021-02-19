@@ -543,7 +543,7 @@ items:
       - img: /media/la-visite-5.png
   - nom: Réserve écologique Wynn Farm
     img:
-      - img: /media/img_20190110_113146.jpg
+      - img: /media/wynn-farm-3.png
   - nom: "Cascade Saut-d’Eau "
     img:
       - img: /media/saut-d-eau.jpg
@@ -575,6 +575,8 @@ items:
       de la nature donne l’apparence d’un paradis perdu dans le secret des dieux
       et arbres.
   - nom: "Parc National historique- Citadelle, Sans souci, Ramiers "
+    img:
+      - img: /media/citadelle-ok-ok.png
   - nom: Parc National Naturel des trois Baies et des Lagons aux Bœufs
   - nom: Parc Naturel du Canapé-Vert
   - nom: Source Zabeth
