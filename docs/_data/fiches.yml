@@ -580,6 +580,8 @@ items:
     img:
       - img: /media/citadelle-ok-2.png
   - nom: Parc National Naturel des trois Baies et des Lagons aux Bœufs
+    img:
+      - img: /media/lagon-aux-boeufs-2.png
   - nom: Parc Naturel du Canapé-Vert
   - nom: Source Zabeth
     description: "La Source Zabeth est située dans la commune de Ganthier à vingt
