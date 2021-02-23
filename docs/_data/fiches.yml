@@ -418,7 +418,8 @@ items:
       - img: /media/img-20201025-wa0015.jpg
   - nom: "Cascades Pichon "
     img:
-      - img: /media/cascade-pichon-4.png
+      - img: /media/cascade-pichon-ok-1.png
+      - img: /media/cascade-pichon-yes.png
   - nom: Parc de Martissant
     img:
       - img: /media/parc-de-martissant.jpg
