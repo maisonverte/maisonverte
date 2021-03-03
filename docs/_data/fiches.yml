@@ -434,36 +434,6 @@ items:
     potentialites: "Les Cascades Pichon sont une destination intéressante. Plongées
       dans une belle verdure, ces cascades présentent des attraits exceptionnels
       pouvant intéresser les touristes.  "
-  - nom: Parc de Martissant
-    img:
-      - img: /media/parc-de-martissant.jpg
-    description: Le projet du parc de Martissant dans la zone d’aménagement
-      concertée s’étend sur un ensemble boisé de 17 hectares. Déclaré d’utilité
-      publique en 2007 par arrêté présidentiel en vue de la réalisation du parc
-      de Martissant, le territoire du projet comprend les anciennes Habitations
-      Leclerc, résidence Pauline, résidence de Katherine Dunham, propriété
-      Destouches, et l’ancienne résidence de la famille Mangonès. Avec une
-      superficie de 12.55 hectares, ce parc national urbain a été déclarée parc
-      National en 2017 par l’Etat Haïtien et comprend aussi une Bibliothèque
-      pour faciliter aux jeunes et aux visiteurs l’accès aux livres.
-    biodiversite: "Le Parc Naturel Martissant est un bloc planté d’arbres indigènes,
-      d’arbres fruitiers et de plusieurs espèces d’arbres exceptionnels et
-      rares. Dès l’entrée, le visiteur est accueilli par une immense étendue de
-      terrain recouverte de gros arbres au feuillage vert et touffu. Pas moins
-      de 40 espèces d’arbres différents peuplent l’espace, lui donnant une
-      allure luxuriante. Plusieurs d’entre eux sont centenaires, d’autres sont
-      rarissimes ou même en voie d’extinction, c’est le cas par exemple du
-      taverneau qu’on ne trouve presque plus en Haïti. En plus des arbres
-      traditionnels, des arbres à fleurs et des arbres fruitiers, le parc
-      naturel de Martissant abrite des espèces endémiques. Le parc Naturel de
-      Martissant est considéré comme un véritable réservoir de la flore d’Haïti,
-      hormis les arbres, le parc contient plusieurs jardins on y trouve un
-      potager, un jardin sauvage et un jardin d’herbacées.   "
-    potentialites: "Le Parc de Martissant accueille environ 200 visiteurs par jour.
-      Le parc est d’une beauté époustouflante ce qui fait qu’il y a toujours une
-      affluence de visiteurs qui sont attirés par simple curiosité ou sont venus
-      dans le cadre d’une activité spécifique. On y trouve généralement un
-      espace merveilleux, soigneusement arrangé qui donne envie d’y habiter.   "
   - nom: Trou Caïman
     description: "Connu également sous le nom de « Dlo Gaye », Trou Caïman, est un
       lac d'eau douce peu profond de 2500 hectares, situé à 20 km au nord-est de
