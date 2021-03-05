@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Qui sommes-nous
-permalink: Haiti-Caraïbe
+permalink: /qui-sommes-nous/
 ---
 <!--\\\[if gte mso 9]><xml>
  <o:DocumentProperties>

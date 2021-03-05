@@ -5,3 +5,11 @@
 .header-logo {
   max-width: 155px;
 }
+
+.destination_info {
+  padding-bottom: 20px;
+}
+
+.responsive-image {
+  max-width: 100%;
+}

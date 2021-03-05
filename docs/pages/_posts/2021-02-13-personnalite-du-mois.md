@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Destinations
-permalink: Ecotourisme
+title: Personnalité du mois
+permalink: /personalite-du-mois/
 ---
 <!--\[if gte mso 9]><xml>
  <o:DocumentProperties>
@@ -341,14 +341,6 @@ permalink: Ecotourisme
 
 <!--StartFragment-->
 
-Haïti
-
-Guadeloupe
-
-Martinique
-
- Sainte-Lucie
-
-Dominique
+Chaque mois, Tout Naturel Haïti- Caraïbes allumera son projecteur sur une personnalité (scientifique, militant.e écologiste) remarquable dans le domaine de l’environnement au niveau de la Caraïbe.
 
 <!--EndFragment-->

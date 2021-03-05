@@ -1,18 +1,19 @@
 ---
 layout: basic
 ---
+{% assign fiches = site.categories.fiches | sort : "order" %}
 <!-- slider_area_start -->
 <div class="slider_area">
   <div class="slider_active owl-carousel">
-    {% for fiche in site.data.fiches.items %}
+    {% for fiche in fiches %}
     <div style="background-image: url({{fiche.img[0].img}})" class="single_slider d-flex align-items-center slider_bg_{{ forloop.index }} overlay">
       <div class="container">
         <div class="row align-items-center">
           <div class="col-xl-12 col-md-12">
             <div class="slider_text text-center">
               <h3>{{ fiche.nom }}</h3>
-              <p>lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</p>
-              <a href="#" class="boxed-btn3">Explore Now</a>
+              <p>{{ fiche.soustitre }}</p>
+              <a href="{{ fiche.url }}" class="boxed-btn3">Explorer</a>
             </div>
           </div>
         </div>
@@ -34,14 +35,14 @@ layout: basic
       </div>
     </div>
     <div class="row">
-      {% for fiche in site.data.fiches.items %}
+      {% for fiche in fiches %}
       <div class="col-lg-4 col-md-6">
         <div class="single_destination">
           <div class="thumb">
             <img src="{{fiche.img[0].img}}" alt="{{fiche.img[0].alt}}">
           </div>
           <div class="content">
-            <p class="d-flex align-items-center">{{ fiche.nom }} <a href="travel_destination.html"> 07 Places</a> </p>
+            <p class="d-flex align-items-center">{{ fiche.nom }} <a href="{{ fiche.url }}">En savoir plus</a> </p>
           </div>
         </div>
       </div>

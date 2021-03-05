@@ -1,3 +1,4 @@
+{% assign pages = site.categories.pages | sort : "order" %}
 <!--[if lte IE 9]>
 <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
 <![endif]-->
@@ -10,7 +11,7 @@
           <div class="row align-items-center">
             <div class="col-xl-2 col-lg-2">
               <div class="logo">
-                <a href="index.html">
+                <a href="/">
                 <img class="header-logo" src="/media/tout-naturel-logo-petit.png?token={{ site.time | date: '%s' }}" alt="Tout naturel Haïti-Caraïbes">
                 </a>
               </div>
@@ -19,9 +20,9 @@
               <div class="main-menu  d-none d-lg-block">
                 <nav>
                   <ul id="navigation">
-                    {% for post in site.posts %}
+                    {% for page in pages %}
                       <li>
-                        <a class="active" href="{{ post.url }}">{{ post.title }}</a>
+                        <a class="active" href="{{ page.url }}">{{ page.title }}</a>
                       </li>
                     {% endfor %}
                   </ul>

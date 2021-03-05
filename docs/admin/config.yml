@@ -1,6 +1,10 @@
 # config.yml
 
 locale: 'fr'
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "_"
 backend:
   # See https://www.netlifycms.org/docs/authentication-backends/#github-backend
   name: github
@@ -14,54 +18,61 @@ collections:
   - name: 'pages'
     create: true
     label: 'Pages'
-    folder: 'docs/_posts/'
+    folder: 'docs/pages/_posts/'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - label: "Ordre dans la liste (-5 vient avant 1 vient avant 5 vient avant 5.2, par exemple)"
+        name: order
+        widget: float
+        required: false
       - { label: 'Titre (par exemple "Destinations")', name: 'title', widget: 'string' }
-      - { label: 'Chemin (par exemple /destinations/)', name: 'permalink', widget: 'string' }
+      - { label: 'Chemin SANS accents, SANS majuscules, avec une barre oblique avant et après (par exemple /actualites-ecologiques/)', name: 'permalink', widget: 'string' }
       - { label: 'Contenu', name: 'body', widget: 'markdown' }
   - name: "fiches"
+    create: true
     label: "fiches"
-    editor:
-      preview: false
-    files:
-      - label: "fiches"
-        name: 'fiches'
-        file: 'docs/_data/fiches.yml'
+    folder: 'docs/fiches/_posts'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'fiche' }
+      - { label: 'Chemin SANS accents, SANS majuscules, avec une barre oblique avant et après (par exemple /haiti/etang-miragoane/)', name: 'permalink', widget: 'string' }
+      - label: "Nom du lieu"
+        name: nom
+        widget: string
+        required: true
+      - label: "Sous-titre"
+        name: soustitre
+        widget: string
+        required: false
+      - label: "Ordre dans la liste (-5 vient avant 1 vient avant 5 vient avant 5.2, par exemple)"
+        name: order
+        widget: float
+        required: false
+      - label: "Images"
+        name: "img"
+        widget: "list"
+        required: false
         fields:
-          - label: "Fiches"
-            name: "items"
-            widget: "list"
-            fields:
-              - label: "Nom du lieu"
-                name: nom
-                widget: string
-                required: false
-              - label: "Images"
-                name: "img"
-                widget: "list"
-                required: false
-                fields:
-                  - {label: "image", name: img, widget: image, required: false}
-                  - {label: "décrivez cette image pour les personnes non-voyantes", name: alt, widget: string, required: false}
-              - label: "Géolocalisation (itinéraire GPS)"
-                name: geolocalisation
-                widget: string
-                required: false
-              - label: "Description"
-                name: description
-                widget: text
-                required: false
-              - label: "Sa biodiversité (son écosystème)"
-                name: biodiversite
-                widget: text
-                required: false
-              - label: "Ses potentialités écotouristiques"
-                name: potentialites
-                widget: text
-                required: false
-              - label: "Ses menaces par rapport aux changements climatiques et les mesures à prendre pour s’adapter aux aléas naturels"
-                name: menaces
-                widget: text
-                required: false
+          - {label: "image", name: img, widget: image, required: false}
+          - {label: "décrivez cette image pour les personnes non-voyantes", name: alt, widget: string, required: false}
+      - label: "Géolocalisation (itinéraire GPS)"
+        name: geolocalisation
+        widget: string
+        required: false
+      - label: "Description"
+        name: description
+        widget: text
+        required: false
+      - label: "Sa biodiversité (son écosystème)"
+        name: biodiversite
+        widget: text
+        required: false
+      - label: "Ses potentialités écotouristiques"
+        name: potentialites
+        widget: text
+        required: false
+      - label: "Ses menaces par rapport aux changements climatiques et les mesures à prendre pour s’adapter aux aléas naturels"
+        name: menaces
+        widget: text
+        required: false

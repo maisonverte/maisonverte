@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Personnalité du mois
-permalink: Scientifique, activiste écologiste
+title: Actualités
+permalink: /actualites-ecologiques/
 ---
 <!--\[if gte mso 9]><xml>
  <o:DocumentProperties>
@@ -341,6 +341,6 @@ permalink: Scientifique, activiste écologiste
 
 <!--StartFragment-->
 
-Chaque mois, Tout Naturel Haïti- Caraïbes allumera son projecteur sur une personnalité (scientifique, militant.e écologiste) remarquable dans le domaine de l’environnement au niveau de la Caraïbe.
+Cette rubrique est réservée à la publication des articles et d’autres informations relatives à l’environnement et au changement climatique dans la Caraïbe francophone et créolophone.
 
 <!--EndFragment-->

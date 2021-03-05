@@ -1,20 +1,10 @@
 ---
 layout: post
-title: Notre équipe
-permalink: Conseil d'administration
+title: Destinations
+permalink: /ecotourisme/
 ---
-<!--\[if !mso]>
-<style>
-v\:* {behavior:url(#default#VML);}
-o\:* {behavior:url(#default#VML);}
-w\:* {behavior:url(#default#VML);}
-.shape {behavior:url(#default#VML);}
-</style>
-<!\[endif]-->
-
 <!--\[if gte mso 9]><xml>
  <o:DocumentProperties>
-  <o:Author>OWNER</o:Author>
   <o:Version>14.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -26,7 +16,7 @@ w\:* {behavior:url(#default#VML);}
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
-  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackMoves/>
   <w:TrackFormatting/>
   <w:PunctuationKerning/>
   <w:ValidateAgainstSchemas/>
@@ -349,135 +339,16 @@ w\:* {behavior:url(#default#VML);}
 </style>
 <!\[endif]-->
 
-<!--\[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="1028"/>
-</xml><!\[endif]-->
-
-<!--\[if gte mso 9]><xml>
- <o:shapelayout v:ext="edit">
-  <o:idmap v:ext="edit" data="1"/>
- </o:shapelayout></xml><!\[endif]-->
-
 <!--StartFragment-->
 
-**Tout Naturel Haïti-Caraïbes** est gérée par un conseil d’administration (CA) composé de 5 membres :
+Haïti
 
- 
+Guadeloupe
 
-<!--\[if gte vml 1]><v:shapetype
- id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
- path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
- <v:stroke joinstyle="miter"/>
- <v:formulas>
-  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-  <v:f eqn="sum @0 1 0"/>
-  <v:f eqn="sum 0 0 @1"/>
-  <v:f eqn="prod @2 1 2"/>
-  <v:f eqn="prod @3 21600 pixelWidth"/>
-  <v:f eqn="prod @3 21600 pixelHeight"/>
-  <v:f eqn="sum @0 0 1"/>
-  <v:f eqn="prod @6 1 2"/>
-  <v:f eqn="prod @7 21600 pixelWidth"/>
-  <v:f eqn="sum @8 21600 0"/>
-  <v:f eqn="prod @7 21600 pixelHeight"/>
-  <v:f eqn="sum @10 21600 0"/>
- </v:formulas>
- <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
- <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Picture_x0020_3" o:spid="_x0000_i1026" type="#_x0000_t75"
- alt="Description: C:\Users\OWNER\Videos\PERSO\IMG-20200912-WA0002 (2).jpg"
- style='width:222pt;height:280.5pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="file:///C:\Users\OWNER\AppData\Local\Temp\msohtmlclip1\01\clip_image001.jpg"
-  o:title="IMG-20200912-WA0002 (2)"/>
-</v:shape><!\[endif]--><!--\[if !vml]-->![Description: C:\\Users\\OWNER\\Videos\\PERSO\\IMG-20200912-WA0002 (2).jpg](file:///C:\Users\OWNER\AppData\Local\Temp\msohtmlclip1\01\clip_image002.jpg)<!--\[endif]-->
+Martinique
 
-**Messerne SAGESSE, PDG**
+ Sainte-Lucie
 
- 
-
-<!--\[if gte vml 1]><v:shape id="Picture_x0020_4"
- o:spid="_x0000_i1025" type="#_x0000_t75" alt="Description: F:\FESTIVAL CINECOLO 2020\PHOTOS CINECOLO 2020\1602280244229.jpg"
- style='width:188.25pt;height:145.5pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="file:///C:\Users\OWNER\AppData\Local\Temp\msohtmlclip1\01\clip_image003.jpg"
-  o:title="1602280244229"/>
-</v:shape><!\[endif]--><!--\[if !vml]-->![Description: F:\\FESTIVAL CINECOLO 2020\\PHOTOS CINECOLO 2020\\1602280244229.jpg](file:///C:\Users\OWNER\AppData\Local\Temp\msohtmlclip1\01\clip_image004.jpg)<!--\[endif]-->
-
-**Bronson THEODORE, Coordonnateur**
-
- 
-
- 
-
- 
-
- 
-
-<!--\[if gte vml 1]><v:shape id="Picture_x0020_10" o:spid="_x0000_s1027"
- type="#_x0000_t75" alt="Description: https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/46451702_2210563002560171_8079252663994155008_o.jpg?_nc_cat=107&amp;_nc_sid=cdbe9c&amp;_nc_ohc=-Xr-k92Y_IcAX9WJSos&amp;_nc_ht=scontent-cdg2-1.xx&amp;oh=895b5cd1e8f5918880b8f969e614ce8b&amp;oe=5F961446"
- style='position:absolute;margin-left:.65pt;margin-top:14.85pt;width:169.9pt;
- height:113.3pt;z-index:251660288;visibility:visible;mso-wrap-style:square;
- mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
- mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
- mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
- mso-position-horizontal-relative:text;mso-position-vertical:absolute;
- mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;
- mso-width-relative:page;mso-height-relative:page'>
- <v:imagedata src="file:///C:\Users\OWNER\AppData\Local\Temp\msohtmlclip1\01\clip_image005.jpg"
-  o:title="46451702_2210563002560171_8079252663994155008_o.jpg?_nc_cat=107&amp;_nc_sid=cdbe9c&amp;_nc_ohc=-Xr-k92Y_IcAX9WJSos&amp;_nc_ht=scontent-cdg2-1"/>
- <w:wrap type="square"/>
-</v:shape><!\[endif]--><!--\[if !vml]-->![Description: https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/46451702_2210563002560171_8079252663994155008_o.jpg?\_nc_cat=107&\_nc_sid=cdbe9c&\_nc_ohc=-Xr-k92Y_IcAX9WJSos&\_nc_ht=scontent-cdg2-1.xx&oh=895b5cd1e8f5918880b8f969e614ce8b&oe=5F961446](file:///C:\Users\OWNER\AppData\Local\Temp\msohtmlclip1\01\clip_image006.jpg)<!--\[endif]-->
-
- 
-
- 
-
- 
-
- 
-
-**Samuel JOZIL, Responsable formations**
-
-<!--\[if gte vml 1]><v:shape id="Picture_x0020_1" o:spid="_x0000_s1026"
- type="#_x0000_t75" alt="Description: C:\Users\OWNER\Downloads\Kate.jpg"
- style='position:absolute;margin-left:.95pt;margin-top:19.05pt;width:230.7pt;
- height:184.5pt;z-index:251658240;visibility:visible;mso-wrap-style:square;
- mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
- mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
- mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
- mso-position-horizontal-relative:text;mso-position-vertical:absolute;
- mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;
- mso-width-relative:page;mso-height-relative:page'>
- <v:imagedata src="file:///C:\Users\OWNER\AppData\Local\Temp\msohtmlclip1\01\clip_image007.jpg"
-  o:title="Kate"/>
- <w:wrap type="square"/>
-</v:shape><!\[endif]--><!--\[if !vml]-->![Description: C:\\Users\\OWNER\\Downloads\\Kate.jpg](file:///C:\Users\OWNER\AppData\Local\Temp\msohtmlclip1\01\clip_image008.jpg)<!--\[endif]-->
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Kattia JEAN-FRANCOIS, Responsable de communication
-
- 
-
- 
-
- 
-
-Lyntchy SOUFFRANT, Administratrice
-
- 
-
- 
+Dominique
 
 <!--EndFragment-->
