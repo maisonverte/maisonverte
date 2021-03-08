@@ -1,6 +1,7 @@
 ---
 layout: fiche
 permalink: /haiti/etang-bossier/
+destination: Haïti
 order: 10
 soustitre: ""
 nom: Etang Bossier

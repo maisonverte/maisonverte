@@ -1,6 +1,7 @@
 ---
 layout: fiche
 permalink: /haiti/reserve-wynn-farm/
+destination: Haïti
 soustitre: ""
 order: 15
 nom: Réserve écologique Wynn Farm

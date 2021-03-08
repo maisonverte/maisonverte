@@ -1,6 +1,7 @@
 ---
 layout: fiche
 permalink: /haiti/bassin-bleu/
+destination: Haïti
 order: 1
 soustitre: "la plus célèbre des piscines naturelles d’Haïti"
 description: "Connu comme la plus célèbre des piscines naturelles d’Haïti, le

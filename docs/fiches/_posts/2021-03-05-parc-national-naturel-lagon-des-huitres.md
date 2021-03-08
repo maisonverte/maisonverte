@@ -1,6 +1,7 @@
 ---
 layout: fiche
 permalink: /haiti/parc-lagon-huitres/
+destination: Haïti
 soustitre: ""
 order: 5
 nom: Parc National Naturel Lagon des huîtres

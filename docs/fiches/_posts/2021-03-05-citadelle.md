@@ -1,6 +1,7 @@
 ---
 layout: fiche
 permalink: /haiti/citadelle/
+destination: Haïti
 order: 17
 nom: "Parc National historique- Citadelle, Sans souci, Ramiers "
 soustitre: ""

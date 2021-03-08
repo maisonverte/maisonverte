@@ -1,6 +1,7 @@
 ---
 layout: fiche
 permalink: /haiti/trou-caiman/
+destination: Haïti
 soustitre: ""
 order: 12
 nom: Trou Caïman

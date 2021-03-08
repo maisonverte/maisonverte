@@ -1,6 +1,7 @@
 ---
 layout: fiche
 permalink: /haiti/source-zabeth/
+destination: Haïti
 soustitre: ""
 order: 19
 nom: Source Zabeth

@@ -1,6 +1,7 @@
 ---
 layout: fiche
 permalink: /haiti/sceau-mathurine/
+destination: Haïti
 soustitre: ""
 order: -2.5
 img:

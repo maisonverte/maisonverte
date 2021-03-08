@@ -1,6 +1,7 @@
 ---
 layout: fiche
 permalink: /haiti/trois-baies/
+destination: Haïti
 soustitre: ""
 order: 18
 nom: "Parc National Naturel des trois Baies "

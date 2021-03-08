@@ -1,6 +1,7 @@
 ---
 layout: fiche
 permalink: /haiti/grotte-marie-jeanne/
+destination: Haïti
 order: -3
 soustitre: ""
 img:

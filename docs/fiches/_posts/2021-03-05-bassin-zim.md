@@ -1,6 +1,7 @@
 ---
 layout: fiche
 permalink: /haiti/bassin-zim/
+destination: Haïti
 order: 1.5
 nom: Bassin Zim
 soustitre: "Regroupe des Grottes mystérieuse et une chute d’eau"

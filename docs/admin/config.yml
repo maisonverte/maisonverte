@@ -53,6 +53,17 @@ collections:
       - { label: 'Titre (par exemple "Destinations")', name: 'title', widget: 'string' }
       - { label: 'Chemin SANS accents, SANS majuscules, avec une barre oblique avant et après (par exemple /actualites-ecologiques/)', name: 'permalink', widget: 'string' }
       - { label: 'Contenu', name: 'body', widget: 'markdown' }
+  - name: "destinations"
+    create: true
+    label: "Destinations"
+    folder: 'docs/destinations/_posts'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - label: "Destination (par exemple Haïti ou Sainte-Lucie)"
+        name: nom
+        widget: string
+        required: true
+      - { label: 'Chemin SANS accents, SANS majuscules, avec une barre oblique avant et après (par exemple /haiti/ ou /sainte-lucie/)', name: 'permalink', widget: 'string' }
   - name: "fiches"
     create: true
     label: "Fiches"
@@ -65,6 +76,10 @@ collections:
         name: nom
         widget: string
         required: true
+      - label: "Destination (par exemple Haïti ou Sainte-Lucie)"
+        name: destination
+        widget: string
+        required: false
       - label: "Sous-titre"
         name: soustitre
         widget: string

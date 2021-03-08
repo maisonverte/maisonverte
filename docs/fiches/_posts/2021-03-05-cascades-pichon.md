@@ -1,6 +1,7 @@
 ---
 layout: fiche
 permalink: /haiti/cascade-pichon/
+destination: Haïti
 order: 11
 nom: "Cascades Pichon "
 soustitre: "une douzaine de chutes d'eau les unes

@@ -1,6 +1,7 @@
 ---
 layout: fiche
 permalink: /haiti/cascade-saut-deau/
+destination: Haïti
 order: 16
 nom: "Cascade Saut-d’Eau "
 soustitre: "Approvisionnée en eau par la Montagne Terrible dans le département

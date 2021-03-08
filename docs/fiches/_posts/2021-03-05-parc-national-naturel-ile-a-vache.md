@@ -1,6 +1,7 @@
 ---
 layout: fiche
 permalink: /haiti/parc-ile-a-vache/
+destination: Haïti
 soustitre: ""
 order: 3
 nom: Parc National Naturel Ile-à-Vache

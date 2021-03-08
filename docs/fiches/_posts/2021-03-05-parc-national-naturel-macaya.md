@@ -1,6 +1,7 @@
 ---
 layout: fiche
 permalink: /haiti/parc-macaya/
+destination: Haïti
 soustitre: ""
 order: 1.75
 nom: Parc National Naturel Macaya

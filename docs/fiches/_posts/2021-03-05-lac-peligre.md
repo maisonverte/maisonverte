@@ -1,6 +1,7 @@
 ---
 layout: fiche
 permalink: /haiti/lac-peligre/
+destination: Haïti
 soustitre: ""
 order: -4
 img:

@@ -1,6 +1,7 @@
 ---
 layout: fiche
 permalink: /haiti/parc-visite/
+destination: Haïti
 soustitre: ""
 order: 14
 nom: Parc National La Visite

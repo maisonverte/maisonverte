@@ -1,6 +1,7 @@
 ---
 layout: fiche
 permalink: /haiti/etang-miragoane/
+destination: Haïti
 order: -5
 soustitre: ""
 img:
