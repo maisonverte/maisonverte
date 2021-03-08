@@ -39,16 +39,20 @@ collections:
                 fields:
                   - {label: "nom (par exemple facebook, twitter)", name: name, widget: string, required: false}
                   - {label: "url complet commençant par http://...", name: url, widget: string, required: false}
+              - label: "Nombre d'items dans une liste partielle, par exemple la page destination. Par exemple 5."
+                name: "items_liste_partielle"
+                widget: "number"
   - name: 'pages'
     create: true
     label: 'Pages'
     folder: 'docs/pages/_posts/'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Mise en page, le plus souvent "post", mais peut aussi être "destinations"', name: 'layout', widget: 'string', default: 'post' }
       - label: "Ordre dans la liste (-5 vient avant 1 vient avant 5 vient avant 5.2, par exemple)"
         name: order
-        widget: float
+        widget: number
+        value_type: float
         required: false
       - { label: 'Titre (par exemple "Destinations")', name: 'title', widget: 'string' }
       - { label: 'Chemin SANS accents, SANS majuscules, avec une barre oblique avant et après (par exemple /actualites-ecologiques/)', name: 'permalink', widget: 'string' }
@@ -63,7 +67,13 @@ collections:
         name: nom
         widget: string
         required: true
+      - { label: 'layout', name: 'layout', widget: 'hidden', default: 'destination' }
       - { label: 'Chemin SANS accents, SANS majuscules, avec une barre oblique avant et après (par exemple /haiti/ ou /sainte-lucie/)', name: 'permalink', widget: 'string' }
+      - label: "Ordre dans la liste (-5 vient avant 1 vient avant 5 vient avant 5.2, par exemple)"
+        name: order
+        widget: number
+        value_type: float
+        required: false
   - name: "fiches"
     create: true
     label: "Fiches"
@@ -86,7 +96,8 @@ collections:
         required: false
       - label: "Ordre dans la liste (-5 vient avant 1 vient avant 5 vient avant 5.2, par exemple)"
         name: order
-        widget: float
+        widget: number
+        value_type: float
         required: false
       - label: "Images"
         name: "img"

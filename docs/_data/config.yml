@@ -1,5 +1,6 @@
 items:
   - baseurl: "https://www.toutnaturelcaraibes.org"
+    items_liste_partielle: 5
     social:
       - name: facebook
         url: "https://www.facebook.com/biodiversitepatrimoinenaturel/"

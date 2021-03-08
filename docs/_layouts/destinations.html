@@ -1,0 +1,9 @@
+{% include header.html %}
+{{ content }}
+{% assign fiches = site.categories.fiches | sort : "order" %}
+{% assign destinations = site.categories.destinations | sort : "order" %}
+{% assign destination_limit = site.data.config.items[0].items_liste_partielle %}
+{% for destination in destinations %}
+  {% include destination.html %}
+{% endfor %}
+{% include footer.html %}
