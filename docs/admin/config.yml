@@ -15,6 +15,30 @@ backend:
 media_folder: 'docs/media'
 public_folder: "/media"
 collections:
+  - name: "config"
+    label: "Configuration générale"
+    editor:
+      preview: false
+    files:
+      - label: "Configuration générale"
+        name: "config"
+        create: false
+        file: "docs/_data/config.yml"
+        fields:
+          - label: "URL de base, par exemple https://www.toutnaturelcaraibes.org"
+            name: "baseurl"
+            widget: "string"
+          - label: "Configuration"
+            name: "items"
+            widget: "list"
+            fields:
+            - label: "Médias sociaux"
+              name: "social"
+              widget: "list"
+              required: false
+              fields:
+                - {label: "nom (par exemple facebook, twitter)", name: name, widget: string, required: false}
+                - {label: "url complet commençant par http://...", name: url, widget: string, required: false}
   - name: 'pages'
     create: true
     label: 'Pages'
