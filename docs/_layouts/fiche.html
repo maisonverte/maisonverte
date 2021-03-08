@@ -27,7 +27,7 @@
           {{ page.potentialites | markdown }}
           </div>
           {% endif %}
-          {% if page.menaces %}
+          {% if page.menaces and site.data.config.items[0].montrer_menaces %}
           <div class="destination_info">
           <h3>Ses menaces écologiques</h3>
           <h4>Ses menaces par rapport aux changements climatiques et les mesures à prendre pour s’adapter aux aléas naturels</h4>
