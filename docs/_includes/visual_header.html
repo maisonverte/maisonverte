@@ -36,7 +36,7 @@
                 </div>
                 <div class="social_links d-none d-xl-block">
                   <ul>
-                    {% for social in site.data.config[0].social %}
+                    {% for social in site.data.config.items[0].social %}
                     <li><a href="{{ social.url }}"> <i class="fa fa-{{ social.name }}"></i> </a></li>
                     {% endfor %}
                   </ul>

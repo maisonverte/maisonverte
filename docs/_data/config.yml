@@ -1,5 +1,5 @@
 items:
   - baseurl: "https://www.toutnaturelcaraibes.org"
-  - social:
-    - name: facebook
-      url: "https://www.facebook.com/biodiversitepatrimoinenaturel/"
+    social:
+      - name: facebook
+        url: "https://www.facebook.com/biodiversitepatrimoinenaturel/"
