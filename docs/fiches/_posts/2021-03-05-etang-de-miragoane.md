@@ -3,7 +3,8 @@ layout: fiche
 permalink: /haiti/etang-miragoane/
 nom: Étang de Miragoâne
 img:
-  - img: /media/img-20201114-wa0041-min.jpg
+  - img: /media/img-20201022-wa0007-min.jpg
+  - img: /media/img-20201022-wa0008-min.jpg
 menaces: >
   Tenant compte des différents pratiques des usagers de ce Lac, il est important
   de signaler que l’Etang de Miragoâne est le centre principal d’un ensemble
