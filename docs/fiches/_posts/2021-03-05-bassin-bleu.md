@@ -3,7 +3,7 @@ layout: fiche
 permalink: /haiti/bassin-bleu/
 nom: Bassin Bleu
 img:
-  - img: /media/whatsapp-image-2021-02-10-at-3.11.49-pm-1--min.jpeg
+  - img: /media/bassin-bleu-e-bassin-yes.png
   - img: /media/bassin-bleu-3.png
 menaces: Malgré son cadre naturel et ses potentialités écotouristiques, le
   Bassin Bleu est menacé par la population locale. La coupe des arbres dans les
