@@ -3,8 +3,8 @@ layout: fiche
 permalink: /haiti/sceau-mathurine/
 nom: Sceau Mathurine
 img:
-  - img: /media/saut_mathurine_2-min.png
   - img: /media/img-20201114-wa0024-min.jpg
+  - img: /media/saut-mathurine.jpg
 menaces: La principale menace du Saut Mathurine est la baisse du débit de la
   rivière de Cavaillon. Plusieurs facteurs sont à l’origine de cette situation
   notamment la dégradation de ce bassin versant provoquée par le déboisement
