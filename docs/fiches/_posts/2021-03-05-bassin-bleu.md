@@ -2,19 +2,12 @@
 layout: fiche
 permalink: /haiti/bassin-bleu/
 nom: Bassin Bleu
+destination: Haïti
+soustitre: La plus célèbre des piscines naturelles d’Haïti
+order: 1
 img:
   - img: /media/bassin-bleu-e-bassin-yes.png
   - img: /media/bassin-bleu-3.png
-menaces: Malgré son cadre naturel et ses potentialités écotouristiques, le
-  Bassin Bleu est menacé par la population locale. La coupe des arbres dans les
-  hauteurs des Bassins, le marché informel à ciel ouvert de zone, l’insalubrité,
-  etc sont autant de menaces qui peuvent affecter le site et même provoquer des
-  conséquences néfastes sur l’ensemble de son écosystème. Donc, il est urgent
-  que des mesures soient prises pour faire de ce site naturel une destination
-  écotouristique de rêve.
-destination: Haïti
-soustitre: la plus célèbre des piscines naturelles d’Haïti
-order: 1
 description: "Connu comme la plus célèbre des piscines naturelles d’Haïti, le
   Bassin Bleu est un site naturel pittoresque situé dans le Sud-Est d’Haïti,
   particulièrement dans la ville de Jacmel. Planté dans un décor indescriptible,
@@ -40,4 +33,11 @@ potentialites: "Haut lieu de randonnée, le Bassin Bleu offre des opportunités
   d’accès, ce site mérite d’être bien aménager et prendre en charge par les
   autorités locales avec la participation de la population. Ce qui contribuera à
   la création des emplois et l’amélioration de l’économie locale. "
+menaces: Malgré son cadre naturel et ses potentialités écotouristiques, le
+  Bassin Bleu est menacé par la population locale. La coupe des arbres dans les
+  hauteurs des Bassins, le marché informel à ciel ouvert de zone, l’insalubrité,
+  etc sont autant de menaces qui peuvent affecter le site et même provoquer des
+  conséquences néfastes sur l’ensemble de son écosystème. Donc, il est urgent
+  que des mesures soient prises pour faire de ce site naturel une destination
+  écotouristique de rêve.
 ---
