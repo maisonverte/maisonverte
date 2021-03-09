@@ -2,9 +2,9 @@
 layout: fiche
 permalink: /haiti/etang-bossier/
 destination: Haïti
-order: 10
-soustitre: ""
 nom: Etang Bossier
+soustitre: ""
+order: 10
 img:
-  - img: /media/img-20201025-wa0015.jpg
+  - img: /media/img-20201025-wa0019-min.jpg
 ---
