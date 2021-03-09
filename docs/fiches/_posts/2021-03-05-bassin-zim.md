@@ -5,6 +5,7 @@ nom: Bassin Zim
 img:
   - img: /media/img-20201114-wa0018-min.jpg
   - img: /media/img-20201114-wa0025-min.jpg
+  - img: /media/img_7120-min.jpg
 menaces: >
   A première vue, le Bassim Zim donne l’image d’un haut lieu touristique
   abandonné. Les derniers travaux d’aménagement de ce site naturel remontent en
