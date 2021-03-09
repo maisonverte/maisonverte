@@ -2,22 +2,12 @@
 layout: fiche
 permalink: /haiti/bassin-zim/
 nom: Bassin Zim
-img:
-  - img: /media/img-20201114-wa0018-min.jpg
-  - img: /media/img-20201114-wa0025-min.jpg
-  - img: /media/img_7120-min.jpg
-menaces: >
-  A première vue, le Bassim Zim donne l’image d’un haut lieu touristique
-  abandonné. Les derniers travaux d’aménagement de ce site naturel remontent en
-  2014 sous la direction de la Ministre du tourisme, Stéphanie Balmir
-  Vildrouin  et ont couté  trois millions de gourdes à l’Etat haïtien.
-
-  Il est flippant, aujourd’hui, de constater l’état de délabrement dans lequel se trouve le Bassin Zim.
-    Les mauvaises herbes ont envahi le sentier qui mène jusqu’à la cascade. Mais tout près, la chute d’eau gronde et impressionne sous des jets de poussières qui risquent de polluer l’eau. Des femmes font de la lessive. Les substances chimiques du savon peuvent entraver la présence des poissons et d’autres espèces qui s’y trouvent.
-  Il est urgent que les autorités concernées entreprennent projets de sécurisation du site doivent être envisagés. Des aménagements réels relatifs à la protection de l’environnement et de la préservation du patrimoine sont à encourager.
 destination: Haïti
 soustitre: Regroupe des Grottes mystérieuse et une chute d’eau
 order: 1.5
+img:
+  - img: /media/img-20201114-wa0018-min.jpg
+  - img: /media/img-20201114-wa0025-min.jpg
 geolocalisation: ""
 description: >
   Situé à quelque huit kilomètres de la ville de Hinche, chef-lieu du
@@ -46,4 +36,13 @@ potentialites: "Bassin Zim est un cadre enchanteur, une beauté, une oasis de
   plus d’un, reste un patrimoine naturel, une attraction écotouristique qui
   pourrait générer des revenus pour la population locale dans la mesure où il
   est régulièrement aménagé et bien administré. "
+menaces: >
+  A première vue, le Bassim Zim donne l’image d’un haut lieu touristique
+  abandonné. Les derniers travaux d’aménagement de ce site naturel remontent en
+  2014 sous la direction de la Ministre du tourisme, Stéphanie Balmir
+  Vildrouin  et ont couté  trois millions de gourdes à l’Etat haïtien.
+
+  Il est flippant, aujourd’hui, de constater l’état de délabrement dans lequel se trouve le Bassin Zim.
+    Les mauvaises herbes ont envahi le sentier qui mène jusqu’à la cascade. Mais tout près, la chute d’eau gronde et impressionne sous des jets de poussières qui risquent de polluer l’eau. Des femmes font de la lessive. Les substances chimiques du savon peuvent entraver la présence des poissons et d’autres espèces qui s’y trouvent.
+  Il est urgent que les autorités concernées entreprennent projets de sécurisation du site doivent être envisagés. Des aménagements réels relatifs à la protection de l’environnement et de la préservation du patrimoine sont à encourager.
 ---
