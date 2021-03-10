@@ -2,12 +2,12 @@
 layout: fiche
 permalink: /haiti/trois-baies/
 nom: "Parc National Naturel des trois Baies "
-img:
-  - img: /media/lagon-aux-boeufs.png
-  - img: /media/paletuvier_rouge.jpg
 destination: Haïti
 soustitre: ""
 order: 18
+img:
+  - img: /media/paletuvier_rouge.jpg
+  - img: /media/mangrove.jpg
 description: "Créé par arrêté présidentiel publié le 11 décembre 2013, le Parc
   national des Trois Baies et des Lagons aux Bœufs (PN3B), s’étend sur une
   superficie de 75 613 hectares soit 169 Km² et couvre cinq communes des
