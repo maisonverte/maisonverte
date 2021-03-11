@@ -2,12 +2,13 @@
 layout: fiche
 permalink: /haiti/parc-lagon-huitres/
 nom: Parc National Naturel Lagon des huîtres
+destination: Haïti
+soustitre: "Constitué de plusieurs sites culturels et écotouristiques: la
+  cascade Pichon, le Lagon des Huîtres et la grotte Canga"
+order: 5
 img:
   - img: /media/img-20201115-wa0033.jpg
   - img: /media/img-20201114-wa0007-min.jpg
-destination: Haïti
-soustitre: ""
-order: 5
 description: Le Parc National Naturel Lagon des Huîtres (PNN-LDH) est un espace
   naturel attrayant constituant une réserve de la biodiversité à la fois marine
   et terrestre d’une superficie de 9 640 hectares et un périmètre de 65 Km². Il
@@ -23,24 +24,23 @@ biodiversite: "Faisant partie des hots spots de biodiversité d’Haïti, le par
   National Lagon des Huîtres est constitué de vingt et un lagons qui forment un
   écosystème particulier et la Cascade Pichon composée d’une douzaine de chutes
   d’eau les unes plus impressionnantes que les autres. Sa flore et sa faune très
-  diversifiées abritent une forât sèche dominée par des Bayahonde (Prosopis
+  diversifiées abritent une forêt sèche dominée par des Bayahonde (Prosopis
   juliflora), de nombreuses espèces animales telles que le Flamant Rose
-  (Phoenicopterus roseus), l'Iguane de record (Cycluraricordi) qui lui est
+  (Phoenicopterus roseus), l'Iguane de ricord (Cycluraricordi) qui lui est
   endémique à l’île hispaniola, le site de Lagon des Huîtres et ses variétés de
   palétuviers rouges, gris et blanc puis  la cascade Pichon, l'unique source à
   régime permanent dans la commune de Belle-Anse. Les différents sites naturels
   du Parc National Lagon des Huîtres abritent près de 40 espèces animales et
   végétales classées sur la liste rouge de l’Union Internationale pour la
-  Conservation de la Nature (UICN) telles : le lézard record,
+  Conservation de la Nature (UICN) telles : le lézard ricord,
   (Cycloraricordi),  le flamant rose, le pigeon simple (Patagioena sinornata),
   le bécasseau (Calidris pusilla), la corneille d’Hispaniola (Corvus
   leucognaphalus) et le Gaic Blanc (Guaiacum sanctum)."
 potentialites: >
-  Le Parc National Lagon des Huîtres offre des potentialités écotouristiques
-  irréfutables. Que ce soit à travers la défilée spectaculaire des flamants
-  roses, sa forêt de mangroves ses lagons, la cascade Pichon et son littoral, il
-  y a de quoi  à offrir mieux aux visiteurs  et qui pourrait améliorer les
-  conditions de vie des 7 000 milles familles qui habitent dans le parc.
+  Le Parc National Lagon des Huîtres detient une potentialité écotouristique
+  incontestable. Que ce soit à travers la défilée spectaculaire des flamants
+  roses, sa forêt de mangroves ses lagons, les cascades Pichon et son littoral,
+  Le Parc National Lagon des Huîtres a de quoi attirer des visiteurs.
 
   Sur les différents sites du parc Lagon des Huîtres, les gens organisent une pléiade d’activités socioculturelles telles que la foire agro artisanale de Pichon, la pêche en folie et les journées récréatives organisées traditionnellement à Lagon des Huîtres pour attirer l’attention des visiteurs et offrir des opportunités économiques à la population locale.
 ---
