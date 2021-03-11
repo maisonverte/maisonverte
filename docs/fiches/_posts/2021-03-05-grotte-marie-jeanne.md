@@ -2,17 +2,13 @@
 layout: fiche
 permalink: /haiti/grotte-marie-jeanne/
 nom: Grotte Marie-Jeanne
+destination: Haïti
+soustitre: Le plus grand patrimoine souterrain d’Haïti et la plus longue grotte
+  de toute la Caraïbe
+order: -3
 img:
   - img: /media/img_7269-min.jpg
   - img: /media/img_7273-min.jpg
-menaces: Vu son positionnement géographique, la Grotte Marie-Jeanne semble ne
-  pas trop exposer aux menaces liées au changement climatique. Par contre, les
-  autorités n’ont qu’à prendre des mesures pour sécuriser ce patrimoine naturel
-  au même tant qu’attirer plus de visiteurs.es sur cette mystérieuse offre de la
-  nature.
-destination: Haïti
-soustitre: ""
-order: -3
 description: >
   Située à 120 mètres d’altitude dans la ville de Port-à-Piment, soit à environ
   61 km à l’ouest de la ville des Cayes dans le département du Sud d’Haïti, la
@@ -29,11 +25,11 @@ description: >
   tiges qui semblent protéger un trésor, ce qui ajoute au charme naturel du lieu
   et fait contraste à ce qu'on s’apprête à découvrir en y pénétrant. Nommée en
   mémoire de Marie-Jeanne Lamartinière, la grotte Marie-Jeanne semble existée
-  depuis l’époque de Taïnos, les premiers habitants de l’Ile d’Haïti, selon les
+  depuis l’époque des Taïnos, les premiers habitants de l’Ile selon les
   recherches archéologiques. Couvrant une superficie de 31 hectares, la Grotte
   Marie-Jeanne a été déclarée « Aire protégée Grotte Marie-Jeanne » par arrêté
   présidentiel du 7 août  2013 et classée dans la catégorie Élément naturel
-  exceptionne
+  exceptionnel
 
   Elle contient deux types d’espaces : les espaces à ciel ouvert c’est-à-dire des endroits éclairés par la lumière du soleil et des espaces à ciel fermé, connus comme des espaces plongés dans la noirceur totale où le silence sonne sous le rythme incroyable d’une nature indomptable.
 biodiversite: >
@@ -54,7 +50,7 @@ biodiversite: >
 
   Avec autant de richesses généalogiques cloitrées dans ce gigantesque labyrinthe souterrain qui demeure une véritable attraction écotouristique à découvrir, la grotte Marie-Jeanne est formée d’une série de cristallisations aériennes comme les stalagmites et les stalactites ingénieusement bien sculptés par la nature et forment au fil du temps une architecture originale dans chaque pièce dont certaines ont conservé des fabrications des Tainos et même des ammonites.
 
-  Doté d’un petit lac d’eau douce au 5e niveau, la grotte Marie-Jeanne détient d’un écosystème souterrain unique qui pourrait suscite d’autres études complémentaires et permet le développement d’une biodiversité exceptionnelle avec une petite faune sauvage qui regroupe des chauves-souris, des oiseaux des coléoptères etc.
+  Doté d’un petit lac d’eau douce au 5e niveau, la grotte Marie-Jeanne détient un écosystème souterrain unique qui pourrait susciter d’autres études complémentaires et permet le développement d’une biodiversité exceptionnelle avec une petite faune sauvage qui regroupe des chauves-souris, des oiseaux des coléoptères etc.
 potentialites: Selon certains chercheurs, la formation de cette structure
   souterraine remonte à environ 60 millions d’années. Des traces archéologiques
   et des signes gravés sur les parois de calcaire et de silice, de même que des
@@ -65,7 +61,8 @@ potentialites: Selon certains chercheurs, la formation de cette structure
   de la nature tropicale. A son intérieur, il existe aussi des mollusques, un
   éléphant, un pélican, un chien cloché, des vierges, des pénis, une robe et un
   caïman naturellement sculptés dans la pierre. Les visites guidées permettront
-  d'explorent les 3 premiers niveaux. Elles durent entre 1 et 4 heures de temps,
+  d'explorer les 3 premiers niveaux. Elles durent entre 1 et 4 heures de temps,
   ce qui laisse assez de temps pour s’aventurer et explorer les profondeurs de
   cette attraction touristique unique.
+menaces: ""
 ---
