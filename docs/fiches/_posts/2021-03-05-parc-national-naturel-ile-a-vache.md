@@ -2,24 +2,24 @@
 layout: fiche
 permalink: /haiti/parc-ile-a-vache/
 nom: Parc National Naturel Ile-à-Vache
-img:
-  - img: /media/ile_a_vache_3-min.png
-  - img: /media/il_a_vache_2-min.png
 destination: Haïti
 soustitre: ""
 order: 3
+img:
+  - img: /media/ile_a_vache_3-min.png
+  - img: /media/il_a_vache_2-min.png
 description: Située sur la côte Sud-Ouest d’Haïti à 30 minutes en bateau soit à
   10 Km² de la ville des Cayes, l’Ile-à-Vache est un petit joyau insulaire connu
   comme l’une des plus belles îles baignées par la mer des Caraïbes. L’histoire
   raconte qu’entre la fin du 17è siècle et au début du 18è siècle, l’île était
   le théâtre de diverses batailles politiques entre les colons pour sa conquête.
   Elle servait de refuge pour des pirates Caraïbes et a été surnommée l’île aux
-  trésors pour le célèbre Capitaine anglais Henry Morgan au point tel qu’un
-  hôtel de l’île porte son nom. Avec ses 14 000 habitants vivant de la pêche et
-  de l’agriculture sur une superficie de 45 Km², l’île-à-Vache, selon la
-  légende, trouve son nom en raison du nombre de vaches qui y circulaient dans
-  le temps. Ce coin de terre est un vrai paradis où le bonheur est tatoué d’une
-  nature douce et calme qui règne sur cette île enchanteresse et intacte.
+  trésors par le célèbre Capitaine anglais Henry Morgan au point tel qu’un hôtel
+  de l’île porte son nom. Avec ses 14 000 habitants vivant de la pêche et de
+  l’agriculture sur une superficie de 45 Km², l’île-à-Vache, selon la légende,
+  trouve son nom en raison du nombre de vaches qui y circulaient dans le temps.
+  Ce coin de terre est un vrai paradis où le bonheur est tatoué d’une nature
+  douce et calme.
 biodiversite: En plein cœur d’un charme naturel entre du sable blanc et une mer
   turquoise, des manguiers à profusion, des plaines et vallées jalonnant sa
   partie ouest, l’île-à-Vache fascine par ses paysages paradisiaques. Son
