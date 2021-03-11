@@ -28,7 +28,7 @@ biodiversite: Situé dans le massif de la selle, le Parc La Visite est un
   pas de nom vernaculaire, certaines d’entre elles sont encore mal connues.
   Toutes les rivières du département de l’ouest et du sud-est y prennent leur
   source.
-potentialites: "Grandiose paysage de montagne et l’une des plus vastes forets du
+potentialites: "Grandiose paysage de montagne et l’une des plus vastes forêts du
   pays, ou plusieurs rivières et cours d’eau prennent leur source le Parc
   national La visite, l’une des rares régions forestières du pays peut-être
   considéré à juste titre comme l’un des plus beaux joyaux de la caraïbe
