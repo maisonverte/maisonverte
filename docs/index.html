@@ -50,3 +50,27 @@ layout: basic
   </div>
 </div>
 <!-- popular_destination_area_end  -->
+{% assign partenaires = site.categories.partenaires | sort : "order" %}
+<div class="partenaires-area">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-6">
+        <div class="section_title text-center mb_70">
+          <h3>Partenaires</h3>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      {% for partenaire in partenaires %}
+      <div class="col-lg-4 col-md-6">
+        <div class="single_travel text-center">
+          <div class="icon">
+            <img src="{{ partenaire.img }}" class="partenaire-logo" alt="Logo {{ partenaire.title }}">
+          </div>
+          <h3>{{ partenaire.title }}</h3>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

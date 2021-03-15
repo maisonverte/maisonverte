@@ -13,3 +13,8 @@
 .responsive-image {
   max-width: 100%;
 }
+
+.partenaire-logo {
+  max-width: 100%;
+  max-height: 80px;
+}
