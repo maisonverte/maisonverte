@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Qui sommes-nous
+order: 1
 permalink: /qui-sommes-nous/
 ---
 <!--\\\[if gte mso 9]><xml>

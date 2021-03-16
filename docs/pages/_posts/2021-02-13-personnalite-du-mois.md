@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Personnalité du mois
+order: -4
 permalink: /personalite-du-mois/
 ---
 <!--\[if gte mso 9]><xml>
