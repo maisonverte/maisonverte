@@ -17,36 +17,25 @@
               </div>
             </div>
             <div class="col-xl-6 col-lg-6">
-              <div class="main-menu  d-none d-lg-block">
+              <div class="main-menu  d-none">
                 <nav>
                   <ul id="navigation">
                     {% for page in pages %}
-                      <li>
-                        <a class="active" href="{{ page.url }}">{{ page.title }}</a>
-                      </li>
+                    <li>
+                      <a class="active" href="{{ page.url }}">{{ page.title }}</a>
+                    </li>
+                    {% endfor %}
+                    {% for social in site.data.config.items[0].social %}
+                    <li>
+                      <a href="{{ social.url }}"> <i class="fa fa-{{ social.name }}"></i> Sur {{ social.name }}</a>
+                    </li>
                     {% endfor %}
                   </ul>
                 </nav>
               </div>
             </div>
-            <div class="col-xl-4 col-lg-4 d-none d-lg-block">
-              <div class="social_wrap d-flex align-items-center justify-content-end">
-                <div class="social_links d-none d-xl-block">
-                  <ul>
-                    {% for social in site.data.config.items[0].social %}
-                    <li><a href="{{ social.url }}"> <i class="fa fa-{{ social.name }}"></i> </a></li>
-                    {% endfor %}
-                  </ul>
-                </div>
-              </div>
-            </div>
-            <div class="seach_icon">
-              <a data-toggle="modal" data-target="#exampleModalCenter" href="#">
-              <i class="fa fa-search"></i>
-              </a>
-            </div>
             <div class="col-12">
-              <div class="mobile_menu d-block d-lg-none"></div>
+              <div class="mobile_menu d-block"></div>
             </div>
           </div>
         </div>
