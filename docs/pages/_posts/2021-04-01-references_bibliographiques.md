@@ -1,6 +1,6 @@
 ---
 layout: post
-order: 1
+order: -2
 title: Références bibliographiques
 permalink: Références bibliographiques
 ---
