@@ -1,7 +1,7 @@
 ---
 layout: post
 order: -4
-title: Coins des scientifiques
+title: Tribune des scientifiques
 permalink: /personalite-du-mois/
 ---
 <!--\[if gte mso 9]><xml>
