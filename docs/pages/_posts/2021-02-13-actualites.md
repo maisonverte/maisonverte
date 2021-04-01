@@ -1,7 +1,7 @@
 ---
 layout: post
 order: -5
-title: Actualités
+title: Actus écolos
 permalink: /actualites-ecologiques/
 ---
 <!--\[if gte mso 9]><xml>
