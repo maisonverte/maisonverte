@@ -1,6 +1,6 @@
 ---
 layout: post
-order: -5
+order: -4
 title: Qui sommes-nous
 permalink: /qui-sommes-nous/
 ---
