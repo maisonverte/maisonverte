@@ -1,6 +1,6 @@
 ---
 layout: post
-order: -5
+order: -6
 title: Tribune des scientifiques
 permalink: /personalite-du-mois/
 ---
