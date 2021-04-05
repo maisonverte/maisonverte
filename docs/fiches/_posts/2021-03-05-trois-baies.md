@@ -22,7 +22,7 @@ description: "Créé par arrêté présidentiel publié le 11 décembre 2013, le
   Fort-Liberté, en plus de contenir une grande lagune d’eau saumâtre du nom de «
   Lagon aux Bœufs ». Le parc national des trois baies comprend des espaces
   marins et terrestres dominés par les mangroves occupant environ 5200 hectares
-  et les récifs coralliens. "
+  et les récifs coralliens."
 biodiversite: >-
   Le Parc National des Trois Baies est un riche patrimoine naturel et culturel
   qui abrite l’une des plus grandes forêts mangroves d’Haïti (d’une superficie
