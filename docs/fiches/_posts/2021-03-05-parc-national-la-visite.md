@@ -8,15 +8,18 @@ order: 14
 img:
   - img: /media/la-visite-5-min.png
   - img: /media/la-visite-2-min.png
-description: Le Parc national La Visite fait partie de la zone cœur de la
-  réserve de biosphère de la Selle, déclaré par l’Unesco en 2012. Il est situé
-  dans le sud-est d’Haïti dans la chaine de la Selle et couvre une superficie de
-  30 km2 et s’étend jusqu’à la frontière avec la République dominicaine. Il
-  offre un paysage fait de pentes douces et de vallées, coupé en divers endroits
-  par des ravines et des cascades. Le parc fut crée en 1983, par un décret du
-  gouvernement de Jean-Claude Duvalier, afin de protéger la flore de la
-  déforestation. Il renferme la plus grande réserve de pins d’Haïti. Cette
-  dernière se situe à 1900 mètres d’altitude en moyenne.
+description: "Le Parc national La Visite fait partie de la zone cœur de la
+  réserve de biosphère de la Selle, déclaré par l’UNESCO en 2012. Il est situé
+  dans les hauteurs du massif de la Selle, qui est dénommé « Zone clé de la
+  biodiversité en Haïti». Il se trouve entre six communes, dont deux dans le
+  département de l’Ouest et quatre dans le département du Sud-Est: Kenskoff au
+  nord, Croix-des-Bouquets au nord-est, Belle-Anse au sud-est, Marigot au sud,
+  Cayes-Jacmel au sud-ouest et Jacmel à l’ouest et couvre une superficie de 30
+  km2. Il offre un paysage fait de pentes douces et de vallées, coupées en
+  divers endroits par des ravines et des cascades. Le parc fut créé en 1983, par
+  un décret du gouvernement de Jean-Claude Duvalier, afin de protéger la flore
+  de la déforestation. Il renferme la plus grande réserve de pins d’Haïti. Cette
+  dernière se situe à 1900 mètres d’altitude en moyenne."
 biodiversite: Situé dans le massif de la selle, le Parc La Visite est un
   aquifère et réservoir d’eau important qui dessert les départements de l’Ouest
   et du Sud-est. C’est aussi l’habitat de plusieurs espèces arbustives et
