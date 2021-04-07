@@ -86,6 +86,10 @@ collections:
         name: nom
         widget: string
         required: true
+      - label: "Carte du pays, iframe provenant de Google Maps"
+        name: "googlemaps"
+        widget: "string"
+        required: false
       - { label: 'layout', name: 'layout', widget: 'hidden', default: 'destination' }
       - { label: 'Chemin SANS accents, SANS majuscules, avec une barre oblique avant et après (par exemple /haiti/ ou /sainte-lucie/)', name: 'permalink', widget: 'string' }
       - label: "Ordre dans la liste (-5 vient avant 1 vient avant 5 vient avant 5.2, par exemple)"
