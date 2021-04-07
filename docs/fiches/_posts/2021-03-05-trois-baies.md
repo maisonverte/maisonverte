@@ -9,18 +9,20 @@ img:
   - img: /media/paletuvier_rouge.jpg
   - img: /media/mangrove.jpg
 description: "Créé par arrêté présidentiel publié le 11 décembre 2013, le Parc
-  national des Trois Baies et des Lagons aux Bœufs (PN3B), s’étend sur une
-  superficie de 75 613 hectares soit 169 Km² et couvre cinq communes des
-  départements du Nord et du Nord-Est : Limonade, Caracol, Terrier-Rouge,
-  Fort-Liberté et Ferrier. Le PN3B est reconnu comme la plus grande aire marine
-  protégée d’Haïti et comprend neuf (9) zones stratégiques : Bord de mer de
-  Limonade, Madras, Centre-Ville de Caracol, Jacquesyl ou Glaudine,
-  Grande-Saline, Phaéton, Fort-Saint-Joseph (Fort-Liberté), Dérac et Meillac.
-  Situé sur la côte Nord-est d’Haïti, le PN3B s’étend sur trois baies : Bord de
-  Mer Limonade, Caracol et Fort-Liberté, en plus de contenir une grande lagune
-  d’eau saumâtre du nom de « Lagon aux Bœufs ». Le parc national des trois baies
-  comprend des espaces marins et terrestres dominés par les mangroves occupant
-  environ 5200 hectares et les récifs coralliens.  "
+  national des Trois Baies et des Lagons aux Bœufs (PN3B), s’étend sur trois
+  baies : bord de mer Limonade, Caracol et Fort-Liberté, en plus de contenir une
+  grande lagune d’eau saumâtre du nom de «Lagon aux Bœufs ». Avec une superficie
+  de 75 613 hectares soit 169 Km², le PN3B couvre cinq communes des départements
+  du Nord et du Nord-Est : Limonade, Caracol, Terrier-Rouge, Fort-Liberté et
+  Ferrier. Le PN3B est reconnu comme la plus grande aire marine protégée d’Haïti
+  et comprend neuf (9) zones stratégiques : Bord de mer de Limonade, Madras,
+  Centre-Ville de Caracol, Jacquesyl ou Glaudine, Grande-Saline, Phaéton,
+  Fort-Saint-Joseph (Fort-Liberté), Dérac et Meillac. Situé sur la côte Nord-est
+  d’Haïti, le PN3B s’étend sur trois baies : Bord de Mer Limonade, Caracol et
+  Fort-Liberté, en plus de contenir une grande lagune d’eau saumâtre du nom de «
+  Lagon aux Bœufs ». Le parc national des trois baies comprend des espaces
+  marins et terrestres dominés par les mangroves occupant environ 5200 hectares
+  et les récifs coralliens."
 biodiversite: >-
   Le Parc National des Trois Baies est un riche patrimoine naturel et culturel
   qui abrite l’une des plus grandes forêts mangroves d’Haïti (d’une superficie
