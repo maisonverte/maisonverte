@@ -6,8 +6,8 @@ destination: Haïti
 soustitre: La plus célèbre des piscines naturelles d’Haïti
 order: 1
 img:
+  - img: /media/7.jpg
   - img: /media/bassin-bleu-e-bassin-yes.png
-  - img: /media/bassin-bleu-3.png
 description: "Connu comme la plus célèbre des piscines naturelles d’Haïti, le
   Bassin Bleu est un site naturel pittoresque situé dans le Sud-Est d’Haïti,
   particulièrement dans la ville de Jacmel. Planté dans un décor surréaliste, le
