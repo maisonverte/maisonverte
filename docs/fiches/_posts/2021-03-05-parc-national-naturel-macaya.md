@@ -2,20 +2,12 @@
 layout: fiche
 permalink: /haiti/parc-macaya/
 nom: Parc National Naturel Macaya
-img:
-  - img: /media/macaya-1.png
-  - img: /media/macaya_5-min.png
-menaces: >
-  Malgré sa riche biodiversité floristique et faunistique, le Parc Macaya fait
-  face à de nombreuses menaces d’origine anthropique notamment le développement
-  de l’industrie du bois pour la construction et le charbon. Sujet d’une série
-  d’activité de spoliation, le parc Macaya devient, malheureusement, le théâtre
-  d’une série d’activités liées au développement agricole. Ces activités
-  contribuent fortement à la dégradation de son écosystème déjà fragile par
-  rapport au changement climatique.
 destination: Haïti
 soustitre: ""
 order: 1.75
+img:
+  - img: /media/macaya_5-min.png
+  - img: /media/m-lb-10.jpg
 description: "Le parc National Nuturel Macaya constitue la zone cœur de la
   réserve de biosphère du massif de la Hotte, désignée par l’UNESCO en 2016.
   Celui-ci constitue pour Haïti et les caraïbes l’une des plus importantes
@@ -50,4 +42,12 @@ potentialites: "Compte tenu de sa riche biodiversité, le Parc Macaya est le lie
   les recherches scientifiques. Contempler la faune et la flore du Parc Macaya,
   escalader ses montagnes escarpées reste et demeure l’un des plus grands
   cadeaux que la nature puisse offrir aux amateurs du vivant.  "
+menaces: >
+  Malgré sa riche biodiversité floristique et faunistique, le Parc Macaya fait
+  face à de nombreuses menaces d’origine anthropique notamment le développement
+  de l’industrie du bois pour la construction et le charbon. Sujet d’une série
+  d’activité de spoliation, le parc Macaya devient, malheureusement, le théâtre
+  d’une série d’activités liées au développement agricole. Ces activités
+  contribuent fortement à la dégradation de son écosystème déjà fragile par
+  rapport au changement climatique.
 ---
