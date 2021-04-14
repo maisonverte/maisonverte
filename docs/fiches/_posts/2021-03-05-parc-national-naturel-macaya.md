@@ -6,8 +6,8 @@ destination: Haïti
 soustitre: ""
 order: 1.75
 img:
-  - img: /media/macaya_5-min.png
   - img: /media/m-lb-10.jpg
+  - img: /media/img_20190110_113146.jpg
 description: "Le parc National Nuturel Macaya constitue la zone cœur de la
   réserve de biosphère du massif de la Hotte, désignée par l’UNESCO en 2016.
   Celui-ci constitue pour Haïti et les caraïbes l’une des plus importantes
