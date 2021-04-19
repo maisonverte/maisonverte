@@ -6,7 +6,7 @@ destination: Haïti
 soustitre: Le Parc La Visite renferme la plus grande réserve de pins d’Haïti
 order: 14
 img:
-  - img: /media/la-visite-5-min.png
+  - img: /media/175667144_4163914110334581_4942476415671016454_n-min.jpg
   - img: /media/la-visite-2-min.png
 description: "Le Parc national La Visite fait partie de la zone cœur de la
   réserve de biosphère de la Selle, déclarée par l’UNESCO en 2012. Il est situé
