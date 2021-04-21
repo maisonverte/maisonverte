@@ -149,3 +149,18 @@ collections:
         name: menaces
         widget: text
         required: false
+  - name: "articles"
+    create: true
+    label: "Articles"
+    folder: 'docs/articles/_articles'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - label: "Titre"
+        name: titre
+        widget: string
+        required: true
+      - label: "Corps"
+        name: body
+        widget: text
+        required: false
