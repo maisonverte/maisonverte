@@ -1,0 +1,8 @@
+{% include header.html %}
+<h1>{{ page.title }}</h1>
+{{ content }}
+{% assign shareable_title = page.title %}
+{% assign shareable_page = page.url %}
+{% include share_twitter.html %}
+{% include share_facebook.html %}
+{% include footer.html %}

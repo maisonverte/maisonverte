@@ -72,6 +72,7 @@ collections:
         value_type: float
         required: false
       - { label: 'Titre (par exemple "Maison verte Haïti")', name: 'title', widget: 'string' }
+      - { label: 'Surtitre (par exemple "Réalisé avec le soutien financier de : ")', name: 'surtitre', widget: 'string', required: false }
       - label: "Image"
         name: "img"
         widget: "image"
@@ -152,15 +153,15 @@ collections:
   - name: "articles"
     create: true
     label: "Articles"
-    folder: 'docs/articles/_articles'
+    folder: 'docs/articles/_posts'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'sharable' }
       - label: "Titre"
-        name: titre
+        name: title
         widget: string
         required: true
       - label: "Corps"
         name: body
-        widget: text
+        widget: markdown
         required: false

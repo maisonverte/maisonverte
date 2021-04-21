@@ -1,0 +1,8 @@
+{% include header.html %}
+<h1>{{ page.title }}</h1>
+{{ content }}
+{% assign articles = site.categories.articles %}
+{% for article in articles %}
+  {% include article_teaser.html %}
+{% endfor %}
+{% include footer.html %}
