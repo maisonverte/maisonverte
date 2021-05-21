@@ -25,6 +25,18 @@ collections:
         create: false
         file: "docs/_data/config.yml"
         fields:
+          - label: "Public API keys and public tokens (put no secrets here!)"
+            name: "api"
+            widget: object
+            fields:
+              - label: "Mapbox account description"
+                name: "mapbox_desc"
+                widget: string
+                required: false
+              - label: "Mapbox public token"
+                name: "mapbox"
+                widget: string
+                required: false
           - label: "Configuration"
             name: "items"
             widget: "list"
@@ -87,10 +99,19 @@ collections:
         name: nom
         widget: string
         required: true
-      - label: "Carte du pays, iframe provenant de Google Maps"
-        name: "googlemaps"
-        widget: "string"
-        required: false
+      - label: "Points GPS du pays"
+        hint: "Proviennent de https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson"
+        name: "latlon"
+        widget: list
+        fields:
+          - label: "Lat, for example 51.500000"
+            name: "lat"
+            widget: string
+            required: false
+          - label: "Lon, for example -0.0900000"
+            name: "lon"
+            widget: string
+            required: false
       - { label: 'layout', name: 'layout', widget: 'hidden', default: 'destination' }
       - { label: 'Chemin SANS accents, SANS majuscules, avec une barre oblique avant et après (par exemple /haiti/ ou /sainte-lucie/)', name: 'permalink', widget: 'string' }
       - label: "Ordre dans la liste (-5 vient avant 1 vient avant 5 vient avant 5.2, par exemple)"
