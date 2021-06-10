@@ -28,12 +28,13 @@ description: >
   depuis l’époque des Taïnos, les premiers habitants de l’Ile selon les
   recherches archéologiques. Couvrant une superficie de 31 hectares, la Grotte
   Marie-Jeanne a été déclarée « Aire protégée Grotte Marie-Jeanne » par arrêté
-  présidentiel du 7 août  2013 et classée dans la catégorie Élément naturel
-  exceptionnel
-
-  Elle contient deux types d’espaces : les espaces à ciel ouvert c’est-à-dire des endroits éclairés par la lumière du soleil et des espaces à ciel fermé, connus comme des espaces plongés dans la noirceur totale où le silence sonne sous le rythme incroyable d’une nature indomptable.
+  présidentiel du 7 août 2013 et classée dans la catégorie Élément naturel
+  exceptionnel. Elle contient deux types d’espaces : les espaces à ciel ouvert
+  c’est-à-dire des endroits éclairés par la lumière du soleil et des espaces à
+  ciel fermé, connus comme des espaces plongés dans la noirceur totale où le
+  silence sonne sous le rythme incroyable d’une nature indomptable.
 biodiversite: >
-  La Grotte Marie-Jeanne est constitué de plus de 56 chambres superposées, les
+  La Grotte Marie-Jeanne est constituée de plus de 56 chambres superposées, les
   unes plus grandes que les autres avec une originalité à couper le souffle. Au
   début des années 70, un groupe de spéléologues a nommé une série de salles
   comme la Voute étoilée qui sert la toute première salle d’accueil pour
@@ -45,12 +46,18 @@ biodiversite: >
   Marie-Jeanne ; la salle Totem ou espace généalogique qui regroupe des
   sculptures et des symboles fragmentés par l’ingéniosité de la nature ; la
   salle fraternité avec une aération qui donne envie de se relaxer ; le Coin
-  perlé, une pièce ornée de perles  et bien d’autres salles aussi mythiques
-  qu’extraordinaires
-
-  Avec autant de richesses généalogiques cloitrées dans ce gigantesque labyrinthe souterrain qui demeure une véritable attraction écotouristique à découvrir, la grotte Marie-Jeanne est formée d’une série de cristallisations aériennes comme les stalagmites et les stalactites ingénieusement bien sculptés par la nature et forment au fil du temps une architecture originale dans chaque pièce dont certaines ont conservé des fabrications des Tainos et même des ammonites.
-
-  Doté d’un petit lac d’eau douce au 5e niveau, la grotte Marie-Jeanne détient un écosystème souterrain unique qui pourrait susciter d’autres études complémentaires et permet le développement d’une biodiversité exceptionnelle avec une petite faune sauvage qui regroupe des chauves-souris, des oiseaux des coléoptères etc.
+  perlé, une pièce ornée de perles et bien d’autres salles aussi mythiques
+  qu’extraordinaires Avec autant de richesses généalogiques cloitrées dans ce
+  gigantesque labyrinthe souterrain qui demeure une véritable attraction
+  écotouristique à découvrir, la grotte Marie-Jeanne est formée d’une série de
+  cristallisations aériennes comme les stalagmites et les stalactites
+  ingénieusement bien sculptés par la nature et forment au fil du temps une
+  architecture originale dans chaque pièce dont certaines ont conservé des
+  fabrications des Tainos et même des ammonites. Doté d’un petit lac d’eau douce
+  au 5e niveau, la grotte Marie-Jeanne détient un écosystème souterrain unique
+  qui pourrait susciter d’autres études complémentaires et permet le
+  développement d’une biodiversité exceptionnelle avec une petite faune sauvage
+  qui regroupe des chauves-souris, des oiseaux des coléoptères, etc.
 potentialites: Selon certains chercheurs, la formation de cette structure
   souterraine remonte à environ 60 millions d’années. Des traces archéologiques
   et des signes gravés sur les parois de calcaire et de silice, de même que des
