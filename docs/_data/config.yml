@@ -2,7 +2,7 @@ api:
   mapbox: pk.eyJ1IjoiZGN5Y2xlIiwiYSI6ImNrb2M2c3F1ajAxOXAycHRrb2Z6bXlxNTQifQ.TyU5SNPotu2hSZAJgm76wg
   mapbox_desc: Mapbox Dcycle
 items:
-  - baseurl: https://www.toutnaturelcaraibes.org/
+  - baseurl: https://www.toutnaturelcaraibe.org/
     items_liste_partielle: 5
     social:
       - name: facebook
