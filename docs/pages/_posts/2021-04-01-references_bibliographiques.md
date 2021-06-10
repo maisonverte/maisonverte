@@ -1,7 +1,7 @@
 ---
 layout: post
 order: -5
-title: Références bibliographiques
-permalink: Références bibliographiques
+title: Personnalité du mois
+permalink: Un.e activiste/scientifique et acteurs de l'environnement
 ---
 Références bibliographiques
