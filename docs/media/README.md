@@ -1,1 +1,1 @@
-All media (PDF, images...) goes here.
+Docuements et images.

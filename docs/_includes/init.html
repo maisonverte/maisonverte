@@ -1,5 +1,6 @@
 {% assign debug = "" %}
 {% assign global_css = "css_bootstrap,css_custom" %}
+{% assign extrajs = "" %}
 {% assign global_js = "js_jquery,js_bootstrap,js_custom" %}
 {% assign myconfig = site.data.config.items[0] %}
 {% assign keys = site.data.config.api %}
@@ -13,3 +14,5 @@
   {% assign mylangs = page.langs %}
 {% endif %}
 {% assign locations = site.categories.jekyll_locations %}
+{% assign pages = site.categories.jekyll_pages | sort : "order" %}
+{% assign fiches = site.categories.jekyll_fiches | sort : "order" %}

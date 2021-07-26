@@ -105,11 +105,3 @@ var myMap = {
     this.singlemarkers = L.markerClusterGroup();
   }
 };
-
-myMap.init();
-
-{% for location in locations %}
-  myMap.addLocation({{ location | jsonify }});
-{% endfor %}
-
-myMap.display();

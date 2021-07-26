@@ -1,3 +1,5 @@
-DOCKERPORT=8082
-DOCKERNETWORK=starterkitjekyll
-DOCKERNAME=starterkitjekyll
+# Use a random number between 8000 and 8999
+DOCKERPORT=8171
+# Use a relatively unique name
+DOCKERNETWORK=maisonverte2
+DOCKERNAME=maisonverte2

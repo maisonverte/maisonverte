@@ -1,0 +1,9 @@
+<script>
+  myMap.init();
+
+  {% for location in locations %}
+    myMap.addLocation({{ location | jsonify }});
+  {% endfor %}
+
+  myMap.display();
+</script>

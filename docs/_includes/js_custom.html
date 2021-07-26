@@ -1,1 +1,43 @@
+<script src="/js/vendor/modernizr-3.5.0.min.js.pagespeed.jm.L_Pj9CgKas.js"></script>
+<script src="/js/vendor/jquery-1.12.4.min.js.pagespeed.jm.29OAZzvhfX.js"></script>
+<script src="/js/popper.min.js.pagespeed.jm.bkCCOmq-wV.js"></script>
+<script src="/js/bootstrap.min.js.pagespeed.jm.Rd0OyYl9HU.js"></script>
+<script src="/js/owl.carousel.min.js.pagespeed.jm.v5TsCuoYug.js"></script>
+<script src="/js/isotope.pkgd.min.js.pagespeed.jm.z3b1bOdPiI.js"></script>
+<script>//<![CDATA[
+  $(function(){var form=$('#contact-form');var formMessages=$('.ajax-response');$(form).submit(function(e){e.preventDefault();var formData=$(form).serialize();$.ajax({type:'POST',url:$(form).attr('action'),data:formData}).done(function(response){$(formMessages).removeClass('error');$(formMessages).addClass('success');$(formMessages).text(response);$('#contact-form input,#contact-form textarea').val('');}).fail(function(data){$(formMessages).removeClass('success');$(formMessages).addClass('error');if(data.responseText!==''){$(formMessages).text(data.responseText);}else{$(formMessages).text('Oops! An error occured and your message could not be sent.');}});});});
+  //]]>
+</script>
+<script src="/js/waypoints.min.js.pagespeed.jm.pcNPmj-8Bj.js"></script>
+<script>//<![CDATA[
+  (function(e){"use strict";e.fn.counterUp=function(t){var n=e.extend({time:400,delay:10},t);return this.each(function(){var t=e(this),r=n,i=function(){var e=[],n=r.time/r.delay,i=t.text(),s=/[0-9]+,[0-9]+/.test(i);i=i.replace(/,/g,"");var o=/^[0-9]+$/.test(i),u=/^[0-9]+\.[0-9]+$/.test(i),a=u?(i.split(".")[1]||[]).length:0;for(var f=n;f>=1;f--){var l=parseInt(i/n*f);u&&(l=parseFloat(i/n*f).toFixed(a));if(s)while(/(\d+)(\d{3})/.test(l.toString()))l=l.toString().replace(/(\d+)(\d{3})/,"$1,$2");e.unshift(l)}t.data("counterup-nums",e);t.text("0");var c=function(){t.text(t.data("counterup-nums").shift());if(t.data("counterup-nums").length)setTimeout(t.data("counterup-func"),r.delay);else{delete t.data("counterup-nums");t.data("counterup-nums",null);t.data("counterup-func",null)}};t.data("counterup-func",c);setTimeout(t.data("counterup-func"),r.delay)};t.waypoint(i,{offset:"100%",triggerOnce:!0})})}})(jQuery);
+  //]]>
+</script>
+<script src="/js/imagesloaded.pkgd.min.js.pagespeed.jm.JhF2ZrNsYa.js"></script>
+<script>//<![CDATA[
+  (function($){'use strict';var pluginName='ScrollIt',pluginVersion='1.0.3';var defaults={upKey:38,downKey:40,easing:'linear',scrollTime:600,activeClass:'active',onPageChange:null,topOffset:0};$.scrollIt=function(options){var settings=$.extend(defaults,options),active=0,lastIndex=$('[data-scroll-index]:last').attr('data-scroll-index');var navigate=function(ndx){if(ndx<0||ndx>lastIndex)return;var targetTop=$('[data-scroll-index='+ndx+']').offset().top+settings.topOffset+1;$('html,body').animate({scrollTop:targetTop,easing:settings.easing},settings.scrollTime);};var doScroll=function(e){var target=$(e.target).closest("[data-scroll-nav]").attr('data-scroll-nav')||$(e.target).closest("[data-scroll-goto]").attr('data-scroll-goto');navigate(parseInt(target));};var keyNavigation=function(e){var key=e.which;if($('html,body').is(':animated')&&(key==settings.upKey||key==settings.downKey)){return false;}if(key==settings.upKey&&active>0){navigate(parseInt(active)-1);return false;}else if(key==settings.downKey&&active<lastIndex){navigate(parseInt(active)+1);return false;}return true;};var updateActive=function(ndx){if(settings.onPageChange&&ndx&&(active!=ndx))settings.onPageChange(ndx);active=ndx;$('[data-scroll-nav]').removeClass(settings.activeClass);$('[data-scroll-nav='+ndx+']').addClass(settings.activeClass);};var watchActive=function(){var winTop=$(window).scrollTop();var visible=$('[data-scroll-index]').filter(function(ndx,div){return winTop>=$(div).offset().top+settings.topOffset&&winTop<$(div).offset().top+(settings.topOffset)+$(div).outerHeight()});var newActive=visible.first().attr('data-scroll-index');updateActive(newActive);};$(window).on('scroll',watchActive).scroll();$(window).on('keydown',keyNavigation);$('body').on('click','[data-scroll-nav], [data-scroll-goto]',function(e){e.preventDefault();doScroll(e);});};}(jQuery));
+  //]]>
+</script>
+<script>//<![CDATA[
+  !function(l,o,e){"use strict";l.fn.scrollUp=function(o){l.data(e.body,"scrollUp")||(l.data(e.body,"scrollUp",!0),l.fn.scrollUp.init(o))},l.fn.scrollUp.init=function(r){var s,t,c,i,n,a,d,p=l.fn.scrollUp.settings=l.extend({},l.fn.scrollUp.defaults,r),f=!1;switch(d=p.scrollTrigger?l(p.scrollTrigger):l("<a/>",{id:p.scrollName,href:"#top"}),p.scrollTitle&&d.attr("title",p.scrollTitle),d.appendTo("body"),p.scrollImg||p.scrollTrigger||d.html(p.scrollText),d.css({display:"none",position:"fixed",zIndex:p.zIndex}),p.activeOverlay&&l("<div/>",{id:p.scrollName+"-active"}).css({position:"absolute",top:p.scrollDistance+"px",width:"100%",borderTop:"1px dotted"+p.activeOverlay,zIndex:p.zIndex}).appendTo("body"),p.animation){case"fade":s="fadeIn",t="fadeOut",c=p.animationSpeed;break;case"slide":s="slideDown",t="slideUp",c=p.animationSpeed;break;default:s="show",t="hide",c=0}i="top"===p.scrollFrom?p.scrollDistance:l(e).height()-l(o).height()-p.scrollDistance,n=l(o).scroll(function(){l(o).scrollTop()>i?f||(d[s](c),f=!0):f&&(d[t](c),f=!1)}),p.scrollTarget?"number"==typeof p.scrollTarget?a=p.scrollTarget:"string"==typeof p.scrollTarget&&(a=Math.floor(l(p.scrollTarget).offset().top)):a=0,d.click(function(o){o.preventDefault(),l("html, body").animate({scrollTop:a},p.scrollSpeed,p.easingType)})},l.fn.scrollUp.defaults={scrollName:"scrollUp",scrollDistance:300,scrollFrom:"top",scrollSpeed:300,easingType:"linear",animation:"fade",animationSpeed:200,scrollTrigger:!1,scrollTarget:!1,scrollText:"Scroll to top",scrollTitle:!1,scrollImg:!1,activeOverlay:!1,zIndex:2147483647},l.fn.scrollUp.destroy=function(r){l.removeData(e.body,"scrollUp"),l("#"+l.fn.scrollUp.settings.scrollName).remove(),l("#"+l.fn.scrollUp.settings.scrollName+"-active").remove(),l.fn.jquery.split(".")[1]>=7?l(o).off("scroll",r):l(o).unbind("scroll",r)},l.scrollUp=l.fn.scrollUp}(jQuery,window,document);
+  //]]>
+</script>
+<script src="/js/wow.min.js.pagespeed.jm.yO_WUAR8J-.js"></script>
+<script src="/js/nice-select.min.js+jquery.slicknav.min.js+jquery.magnific-popup.min.js+plugins.js.pagespeed.jc.BEKczhP9a1.js"></script><script>eval(mod_pagespeed_i7ZmER3qNT);</script>
+<script>eval(mod_pagespeed_TFpBzEOzH9);</script>
+<script>eval(mod_pagespeed_QCTBE6utOp);</script>
+<script>eval(mod_pagespeed_PKUnZWJN2U);</script>
+<script src="/js/gijgo.min.js.pagespeed.ce.Jhxbkf3sVo.js"></script>
+<script src="/js/slick.min.js+contact.js+jquery.ajaxchimp.min.js+jquery.form.js.pagespeed.jc.VVAhQcWqzO.js"></script><script>eval(mod_pagespeed_3$eu5KdNcf);</script>
+<!--contact js-->
+<script>eval(mod_pagespeed_4Mxr9GN$Lv);</script>
+<script>eval(mod_pagespeed_sFtOz3ulEx);</script>
+<script>eval(mod_pagespeed_hCjFUBzXGQ);</script>
+<script src="/js/jquery.validate.min.js+mail-script.js+main.js.pagespeed.jc.2BxSYOEE68.js"></script><script>eval(mod_pagespeed_iuZ1YKjKN2);</script>
+<script>eval(mod_pagespeed_iFleDNZNza);</script>
+<script>eval(mod_pagespeed_cVk$fvNx6E);</script>
+<script>$('#datepicker').datepicker({iconsLibrary:'fontawesome',icons:{rightIcon:'<span class="fa fa-caret-down"></span>'}});</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','UA-23581568-13');</script>
 <script src="/js/scripts.js?token={{ site.time | date: '%s' }}"></script>

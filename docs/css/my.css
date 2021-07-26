@@ -1,0 +1,28 @@
+.slider_area .single_slider .slider_text h3 {
+  font-size: 70px;
+}
+
+.header-logo {
+  max-width: 155px;
+}
+
+.destination_info {
+  padding-bottom: 20px;
+}
+
+.responsive-image {
+  max-width: 100%;
+}
+
+.partenaire-logo {
+  max-width: 100%;
+  max-height: 80px;
+}
+
+.slider_area .single_slider .slider_text h3 {
+  line-height: 1;
+}
+
+.jekylldebug {
+  display: none;
+}

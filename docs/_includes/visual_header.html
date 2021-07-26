@@ -1,0 +1,40 @@
+<header>
+  <div class="header-area ">
+    <div id="sticky-header" class="main-header-area">
+      <div class="container-fluid">
+        <div class="header_bottom_border">
+          <div class="row align-items-center">
+            <div class="col-xl-2 col-lg-2">
+              <div class="logo">
+                <a href="/">
+                <img class="header-logo" src="/media/tout-naturel-logo-petit.png?token={{ site.time | date: '%s' }}" alt="Tout naturel Haïti-Caraïbes">
+                </a>
+              </div>
+            </div>
+            <div class="col-xl-6 col-lg-6">
+              <div class="main-menu  d-none">
+                <nav>
+                  <ul id="navigation">
+                    {% for page in pages %}
+                    <li>
+                      <a class="active" href="{{ page.url }}">{{ page.title }}</a>
+                    </li>
+                    {% endfor %}
+                    {% for social in site.data.config.items[0].social %}
+                    <li>
+                      <a href="{{ social.url }}"> <i class="fa fa-{{ social.name }}"></i> Sur {{ social.name }}</a>
+                    </li>
+                    {% endfor %}
+                  </ul>
+                </nav>
+              </div>
+            </div>
+            <div class="col-12">
+              <div class="mobile_menu d-block"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
