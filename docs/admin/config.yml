@@ -1,7 +1,6 @@
----
----
-{% assign slug = "{{year}}-{{month}}-{{day}}-{{slug}}" %}
-locale: 'en'
+# config.yml
+
+locale: 'fr'
 slug:
   encoding: "ascii"
   clean_accents: true
@@ -16,9 +15,174 @@ backend:
 media_folder: 'docs/media'
 public_folder: "/media"
 collections:
-{% include netlifycms_config.html %}
-{% include netlifycms_pages.html %}
-{% include netlifycms_events.html %}
-{% include netlifycms_blog.html %}
-{% include netlifycms_locations.html %}
-{% include netlifycms_imageinfo.html %}
+  - name: "config"
+    label: "Configuration générale"
+    editor:
+      preview: false
+    files:
+      - label: "Configuration générale"
+        name: "config"
+        create: false
+        file: "docs/_data/config.yml"
+        fields:
+          - label: "Public API keys and public tokens (put no secrets here!)"
+            name: "api"
+            widget: object
+            fields:
+              - label: "Mapbox account description"
+                name: "mapbox_desc"
+                widget: string
+                required: false
+              - label: "Mapbox public token"
+                name: "mapbox"
+                widget: string
+                required: false
+          - label: "Configuration"
+            name: "items"
+            widget: "list"
+            fields:
+              - label: "URL de base, par exemple https://www.toutnaturelcaraibes.org"
+                name: "baseurl"
+                widget: "string"
+              - label: "Montrer la section 'Menaces par rapport aux changements climatiques' sur les fiches"
+                name: "montrer_menaces"
+                widget: "boolean"
+              - label: "Médias sociaux"
+                name: "social"
+                widget: "list"
+                required: false
+                fields:
+                  - {label: "nom (par exemple facebook, twitter)", name: name, widget: string, required: false}
+                  - {label: "url complet commençant par http://...", name: url, widget: string, required: false}
+              - label: "Nombre d'items dans une liste partielle, par exemple la page destination. Par exemple 5."
+                name: "items_liste_partielle"
+                widget: "number"
+  - name: 'pages'
+    create: true
+    label: 'Pages'
+    folder: 'docs/pages/_posts/'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - { label: 'Mise en page, le plus souvent "post", mais peut aussi être "destinations"', name: 'layout', widget: 'string', default: 'post' }
+      - label: "Ordre dans la liste (-5 vient avant 1 vient avant 5 vient avant 5.2, par exemple)"
+        name: order
+        widget: number
+        value_type: float
+        required: false
+      - { label: 'Titre (par exemple "Destinations")', name: 'title', widget: 'string' }
+      - { label: 'Chemin SANS accents, SANS majuscules, avec une barre oblique avant et après (par exemple /actualites-ecologiques/)', name: 'permalink', widget: 'string' }
+      - { label: 'Contenu', name: 'body', widget: 'markdown' }
+  - name: 'partenaires'
+    create: true
+    label: 'partenaires'
+    folder: 'docs/partenaires/_posts/'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - label: "Ordre dans la liste (-5 vient avant 1 vient avant 5 vient avant 5.2, par exemple)"
+        name: order
+        widget: number
+        value_type: float
+        required: false
+      - { label: 'Titre (par exemple "Maison verte Haïti")', name: 'title', widget: 'string' }
+      - { label: 'Surtitre (par exemple "Réalisé avec le soutien financier de : ")', name: 'surtitre', widget: 'string', required: false }
+      - label: "Image"
+        name: "img"
+        widget: "image"
+        required: false
+  - name: "destinations"
+    create: true
+    label: "Destinations"
+    folder: 'docs/destinations/_posts'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - label: "Destination (par exemple Haïti ou Sainte-Lucie)"
+        name: nom
+        widget: string
+        required: true
+      - label: "Points GPS du pays"
+        hint: "Proviennent de https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson"
+        name: "latlon"
+        widget: list
+        fields:
+          - label: "Lat, for example 51.500000"
+            name: "lat"
+            widget: string
+            required: false
+          - label: "Lon, for example -0.0900000"
+            name: "lon"
+            widget: string
+            required: false
+      - { label: 'layout', name: 'layout', widget: 'hidden', default: 'destination' }
+      - { label: 'Chemin SANS accents, SANS majuscules, avec une barre oblique avant et après (par exemple /haiti/ ou /sainte-lucie/)', name: 'permalink', widget: 'string' }
+      - label: "Ordre dans la liste (-5 vient avant 1 vient avant 5 vient avant 5.2, par exemple)"
+        name: order
+        widget: number
+        value_type: float
+        required: false
+  - name: "fiches"
+    create: true
+    label: "Fiches"
+    folder: 'docs/fiches/_posts'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'fiche' }
+      - { label: 'Chemin SANS accents, SANS majuscules, avec une barre oblique avant et après (par exemple /haiti/etang-miragoane/)', name: 'permalink', widget: 'string' }
+      - label: "Nom du lieu"
+        name: nom
+        widget: string
+        required: true
+      - label: "Destination (par exemple Haïti ou Sainte-Lucie)"
+        name: destination
+        widget: string
+        required: false
+      - label: "Sous-titre"
+        name: soustitre
+        widget: string
+        required: false
+      - label: "Ordre dans la liste (-5 vient avant 1 vient avant 5 vient avant 5.2, par exemple)"
+        name: order
+        widget: number
+        value_type: float
+        required: false
+      - label: "Images"
+        name: "img"
+        widget: "list"
+        required: false
+        fields:
+          - {label: "image", name: img, widget: image, required: false}
+          - {label: "décrivez cette image pour les personnes non-voyantes", name: alt, widget: string, required: false}
+      - label: "Géolocalisation (itinéraire GPS)"
+        name: geolocalisation
+        widget: string
+        required: false
+      - label: "Description"
+        name: description
+        widget: text
+        required: false
+      - label: "Sa biodiversité (son écosystème)"
+        name: biodiversite
+        widget: text
+        required: false
+      - label: "Ses potentialités écotouristiques"
+        name: potentialites
+        widget: text
+        required: false
+      - label: "Ses menaces par rapport aux changements climatiques et les mesures à prendre pour s’adapter aux aléas naturels"
+        name: menaces
+        widget: text
+        required: false
+  - name: "articles"
+    create: true
+    label: "Articles"
+    folder: 'docs/articles/_posts'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'sharable' }
+      - label: "Titre"
+        name: title
+        widget: string
+        required: true
+      - label: "Corps"
+        name: body
+        widget: markdown
+        required: false

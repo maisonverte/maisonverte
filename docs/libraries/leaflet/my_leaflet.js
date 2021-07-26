@@ -31,6 +31,8 @@ var myMap = {
    *   new (meaning we are starting a discontiguous area).
    */
   addPolygonGroup: function(latlons) {
+    console.log('adding')
+    console.log(latlons)
     var mypolygons = this.addPolygonGroupRecursive(latlons);
 
     var i;
@@ -105,3 +107,11 @@ var myMap = {
     this.singlemarkers = L.markerClusterGroup();
   }
 };
+
+myMap.init();
+
+{% for location in locations %}
+  myMap.addLocation({{ location | jsonify }});
+{% endfor %}
+
+myMap.display();

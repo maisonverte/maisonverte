@@ -1,2 +1,7 @@
-{% include init.html %}
-{% include fullpage.html %}
+{% include header.html %}
+{{ content }}
+{% assign fiches = site.categories.fiches | sort : "order" %}
+{% assign destination_limit = false %}
+{% assign destination = page %}
+{% include destination.html %}
+{% include footer.html %}

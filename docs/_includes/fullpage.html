@@ -2,7 +2,7 @@
 {% include page_image.html %}
 {% endcapture %}
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 
 <head>
 
@@ -25,7 +25,6 @@
 
 <body>
 
-  {% include visual_header.html %}
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
@@ -68,13 +67,34 @@
 
       </div>
 
+      <!-- Sidebar Widgets Column -->
+      <div class="col-md-4">
+
+        {{ categories_widget }}
+
+        <!-- Side Widget -->
+        <div class="card my-4">
+          <h5 class="card-header">Side Widget</h5>
+          <div class="card-body">
+            You can put anything you want inside of these side widgets. They are easy to use, and feature the new Bootstrap 4 card containers!
+          </div>
+        </div>
+
+      </div>
+
     </div>
     <!-- /.row -->
 
   </div>
   <!-- /.container -->
 
-  {% include footer.html %}
+  <!-- Footer -->
+  <footer class="py-5 bg-dark">
+    <div class="container">
+      <p class="m-0 text-center text-white">Copyright &copy; Your Website <span class="current-year"></span> | <a href="/admin/">Log In</a> </p>
+    </div>
+    <!-- /.container -->
+  </footer>
 
   {% include global_js.html %}
   {% include debug.html %}
