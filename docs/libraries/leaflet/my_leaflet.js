@@ -31,8 +31,6 @@ var myMap = {
    *   new (meaning we are starting a discontiguous area).
    */
   addPolygonGroup: function(latlons) {
-    console.log('adding')
-    console.log(latlons)
     var mypolygons = this.addPolygonGroupRecursive(latlons);
 
     var i;
