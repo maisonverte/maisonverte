@@ -2,6 +2,6 @@
 layout: post
 order: -5
 title: Personnalité du mois
-permalink: Un.e activiste/scientifique et acteurs de l'environnement
+permalink: /personalite-du-mois/
 ---
 Références bibliographiques
