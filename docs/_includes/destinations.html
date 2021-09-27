@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {% include global_css.html %}
-    
+
     <!-- <link rel="manifest" href="site.webmanifest"> -->
     <link rel="shortcut icon" type="image/x-icon" href="/img/xfavicon.png.pagespeed.ic.T58t519xIB.png">
     <!-- Place favicon.ico in the root directory -->
@@ -18,17 +18,15 @@
     <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css">
     <link rel="stylesheet" href="/css/A.style.css.pagespeed.cf.1Au2IuQ3Di.css">
     <!-- <link rel="stylesheet" href="/css/responsive.css"> -->
-    <link rel="stylesheet" href="/css/my.css?token=1632496877">
+    <link rel="stylesheet" href="/css/my/my.css?token={{ site.time | date: '%s' }}">
     <title>{{ page.title }}</title>
 
-
-  
     {% comment %}
     This is an example of how to debug something.
     On the generated page, open the console and type in $('.jekylldebug').show();
     {% endcomment %}
     {% assign debug = debug | append: ',just an example of how to debug something' %}
-      
+
   </head>
   <body>
 
@@ -53,40 +51,40 @@
               <div class="main-menu  d-none">
                 <nav>
                   <ul id="navigation">
-                    
+
                     <li>
                       <a class="active" href="/jekyll/locations/">Locations</a>
                     </li>
-                    
+
                     <li>
                       <a class="active" href="/Un.e activiste/scientifique et acteurs de l'environnement">Personnalité du mois</a>
                     </li>
-                    
+
                     <li>
                       <a class="active" href="/qui-sommes-nous/">Qui sommes-nous</a>
                     </li>
-                    
+
                     <li>
                       <a class="active" href="/actualites-ecologiques/">Actus écolos</a>
                     </li>
-                    
+
                     <li>
                       <a class="active" href="/personalite-du-mois/">Tribune des scientifiques</a>
                     </li>
-                    
+
                     <li>
                       <a class="active" href="/destinations/">Sites naturels et espaces de biodiversité</a>
                     </li>
-                    
+
                     <li>
                       <a class="active" href="/contact/">Contact</a>
                     </li>
-                    
-                    
+
+
                     <li>
                       <a href="https://www.facebook.com/biodiversitepatrimoinenaturel/"> <i class="fa fa-facebook"></i> Sur facebook</a>
                     </li>
-                    
+
                   </ul>
                 </nav>
               </div>
@@ -135,4 +133,3 @@
 
 </body>
 </html>
-
