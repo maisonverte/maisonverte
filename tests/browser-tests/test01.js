@@ -31,9 +31,7 @@ it('It should be possible to interact with the site', async function() {
     await page.setViewport({ width: 1280, height: 800 })
     console.log('go to the home page')
     await page.goto('http://' + process.env.DOMAIN + '/index.html')
-    await page.waitForSelector('.clickme')
-    await page.click('.clickme')
-    await page.waitForSelector('.show-on-click')
+    await page.waitForSelector('h3')
     await screenshot(page, 'after-click', await page.content());
   }
   catch (error) {

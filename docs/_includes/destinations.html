@@ -29,77 +29,7 @@
 
   </head>
   <body>
-
-<!--[if lte IE 9]>
-<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-<![endif]-->
-<!-- header-start -->
-<header>
-  <div class="header-area ">
-    <div id="sticky-header" class="main-header-area">
-      <div class="container-fluid">
-        <div class="header_bottom_border">
-          <div class="row align-items-center">
-            <div class="col-xl-2 col-lg-2">
-              <div class="logo">
-                <a href="/">
-                <img class="header-logo" src="/media/tout-naturel-logo-petit.png?token=1632496877" alt="Tout naturel Haïti-Caraïbes">
-                </a>
-              </div>
-            </div>
-            <div class="col-xl-6 col-lg-6">
-              <div class="main-menu  d-none">
-                <nav>
-                  <ul id="navigation">
-
-                    <li>
-                      <a class="active" href="/jekyll/locations/">Locations</a>
-                    </li>
-
-                    <li>
-                      <a class="active" href="/Un.e activiste/scientifique et acteurs de l'environnement">Personnalité du mois</a>
-                    </li>
-
-                    <li>
-                      <a class="active" href="/qui-sommes-nous/">Qui sommes-nous</a>
-                    </li>
-
-                    <li>
-                      <a class="active" href="/actualites-ecologiques/">Actus écolos</a>
-                    </li>
-
-                    <li>
-                      <a class="active" href="/personalite-du-mois/">Tribune des scientifiques</a>
-                    </li>
-
-                    <li>
-                      <a class="active" href="/destinations/">Sites naturels et espaces de biodiversité</a>
-                    </li>
-
-                    <li>
-                      <a class="active" href="/contact/">Contact</a>
-                    </li>
-
-
-                    <li>
-                      <a href="https://www.facebook.com/biodiversitepatrimoinenaturel/"> <i class="fa fa-facebook"></i> Sur facebook</a>
-                    </li>
-
-                  </ul>
-                </nav>
-              </div>
-            </div>
-            <div class="col-12">
-              <div class="mobile_menu d-block"></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</header>
-<!-- header-end -->
-
+    {% include visual_header.html %}
 
 <p>Sites naturels et espaces de biodiversité</p>
 
@@ -113,23 +43,6 @@
 {% for destination in destinations %}
   {% include destination.html %}
 {% endfor %}
-{% include footer.html %}
-
-
-<!-- Modal -->
-<div class="modal fade custom_search_pop" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered" role="document">
-    <div class="modal-content">
-      <div class="serch_form">
-        <input type="text" placeholder="Search">
-        <button type="submit">search</button>
-      </div>
-    </div>
-  </div>
-</div>
-
 {% include global_js.html %}
 {% include debug.html %}
-
-</body>
-</html>
+{% include footer.html %}

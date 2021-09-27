@@ -1,0 +1,12 @@
+<ul id="navigation">
+  {% for page in pages %}
+  <li>
+    <a class="active" href="{{ page.url }}">{{ page.title }}</a>
+  </li>
+  {% endfor %}
+  {% for social in site.data.config.items[0].social %}
+  <li>
+    <a href="{{ social.url }}"> <i class="fa fa-{{ social.name }}"></i> Sur {{ social.name }}</a>
+  </li>
+  {% endfor %}
+</ul>

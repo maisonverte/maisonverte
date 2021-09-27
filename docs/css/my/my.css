@@ -1,5 +1,6 @@
-.slider_area .single_slider .slider_text h3 {
+.h3-slider-text {
   font-size: 70px;
+  line-height: 1;
 }
 
 .header-logo {
@@ -17,8 +18,4 @@
 .partenaire-logo {
   max-width: 100%;
   max-height: 80px;
-}
-
-.slider_area .single_slider .slider_text h3 {
-  line-height: 1;
 }
