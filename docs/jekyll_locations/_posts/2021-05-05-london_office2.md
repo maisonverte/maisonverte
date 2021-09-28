@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Second London Office, 10 Downing Street, London
 latlon:
   - lat: "51.503390"

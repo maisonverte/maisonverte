@@ -1,7 +1,7 @@
 ---
 layout: post
 order: -5
-title: Personnalité du mois
-permalink: /personalite-du-mois/
+title: Références bibliographiques
+permalink: /references-bibliographiques/
 ---
 Références bibliographiques

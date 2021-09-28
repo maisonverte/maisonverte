@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Washington Office, the White House
 latlon:
   - lat: "40.826670"

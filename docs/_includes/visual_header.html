@@ -1,8 +1,4 @@
 {% assign pages = site.categories.pages | sort : "order" %}
-<!--[if lte IE 9]>
-<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-<![endif]-->
-<!-- header-start -->
 <header>
   <div class="header-area ">
     <div id="sticky-header" class="main-header-area">
@@ -19,18 +15,7 @@
             <div class="col-xl-6 col-lg-6">
               <div class="main-menu  d-none">
                 <nav>
-                  <ul id="navigation">
-                    {% for page in pages %}
-                    <li>
-                      <a class="active" href="{{ page.url }}">{{ page.title }}</a>
-                    </li>
-                    {% endfor %}
-                    {% for social in site.data.config.items[0].social %}
-                    <li>
-                      <a href="{{ social.url }}"> <i class="fa fa-{{ social.name }}"></i> Sur {{ social.name }}</a>
-                    </li>
-                    {% endfor %}
-                  </ul>
+                  {% include navigation_only.html %}
                 </nav>
               </div>
             </div>

@@ -1,0 +1,20 @@
+  - name: 'partenaires'
+    create: true
+    label: 'partenaires'
+    folder: 'docs/partenaires/_posts/'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - name: layout
+        widget: hidden
+        default: "null"
+      - label: "Ordre dans la liste (-5 vient avant 1 vient avant 5 vient avant 5.2, par exemple)"
+        name: order
+        widget: number
+        value_type: float
+        required: false
+      - { label: 'Titre (par exemple "Maison verte Haïti")', name: 'title', widget: 'string' }
+      - { label: 'Surtitre (par exemple "Réalisé avec le soutien financier de : ")', name: 'surtitre', widget: 'string', required: false }
+      - label: "Image"
+        name: "img"
+        widget: "image"
+        required: false

@@ -8,4 +8,4 @@ echo ""
 echo "Linting JavaScript using"
 echo "https://github.com/dcycle/docker-js-lint"
 echo ""
-docker run --rm -v "$(pwd)"/docs/js:/app/code dcycle/js-lint:2 .
+docker run --rm -v "$(pwd)"/docs/js/my:/app/code dcycle/js-lint:2 .

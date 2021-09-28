@@ -1,11 +1,15 @@
+{% capture page_image_markup %}
+{% include page_image.html %}
+{% endcapture %}
 <!doctype html>
 <html class="no-js" lang="zxx">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Tout Naturel Caraibes</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% include global_css.html %}
+
     <!-- <link rel="manifest" href="site.webmanifest"> -->
     <link rel="shortcut icon" type="image/x-icon" href="/img/xfavicon.png.pagespeed.ic.T58t519xIB.png">
     <!-- Place favicon.ico in the root directory -->
@@ -15,6 +19,30 @@
     <link rel="stylesheet" href="/css/A.style.css.pagespeed.cf.1Au2IuQ3Di.css">
     <!-- <link rel="stylesheet" href="/css/responsive.css"> -->
     <link rel="stylesheet" href="/css/my/my.css?token={{ site.time | date: '%s' }}">
+    <title>{{ page.title }}</title>
+
+    {% comment %}
+    This is an example of how to debug something.
+    On the generated page, open the console and type in $('.jekylldebug').show();
+    {% endcomment %}
+    {% assign debug = debug | append: ',just an example of how to debug something' %}
+
   </head>
   <body>
-{% include visual_header.html %}
+    {% include visual_header.html %}
+
+<p>Sites naturels et espaces de biodiversité</p>
+
+
+
+
+<div id="mapid"></div>
+
+{% assign fiches = site.categories.fiches | sort : "order" %}
+{% assign destination_limit = site.data.config.items[0].items_liste_partielle %}
+{% for destination in destinations %}
+  {% include destination.html %}
+{% endfor %}
+{% include global_js.html %}
+{% include debug.html %}
+{% include footer.html %}
